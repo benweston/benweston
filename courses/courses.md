@@ -45,7 +45,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | **_IN PROGRESS_** |
+| [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-certified-associate-cloud-engineer.pdf) |
 | [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-cloud-certified-cloud-digital-leader.pdf) |
 
 </div>
