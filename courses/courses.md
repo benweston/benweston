@@ -68,7 +68,7 @@
 | [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/paths/11/course_templates/49) | **QUEUED** |
 | [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/paths/11/course_templates/50) | **QUEUED** |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/11/course_templates/60) | **QUEUED** |
-| [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/paths/11/course_templates/77) | **QUEUED** |
+| [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/paths/11/course_templates/77) | **_IN PROGRESS_** |
 
 </div>
 
