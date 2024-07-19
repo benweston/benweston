@@ -65,8 +65,8 @@
 | [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/99) | **QUEUED** |
 | [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/paths/11/course_templates/2) | **QUEUED** |
 | [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.cloudskillsboost.google/paths/11/course_templates/178) | **QUEUED** |
-| [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/paths/11/course_templates/49) | **QUEUED** |
-| [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/paths/11/course_templates/50) | **_IN PROGRESS_** |
+| [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/paths/11/course_templates/49) | **_IN PROGRESS_** |
+| [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/paths/11/course_templates/50) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/9900046) |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/11/course_templates/60) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/9857451) |
 | [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/paths/11/course_templates/77) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/9808697) |
 
