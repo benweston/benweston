@@ -20,6 +20,7 @@
         <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
             <img src="https://github.com/benweston/benweston/blob/main/img/terraform-associate-003.png" width="104.143162" height="104.143162" alt="Terraform Associate Icon" />
         </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fbenweston%2Fbenweston?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbenweston%2Fbenweston.svg?type=shield"/></a>
         <a href="https://www.credly.com/badges/1fdddfeb-94d9-4f3e-8345-6ff18388631d/public_url">
             <img src="https://github.com/benweston/benweston/blob/main/img/cloud-digital-leader.png" width="104.143162" height="104.143162" alt="Cloud Digital Leader Icon" />
         </a>
@@ -45,3 +46,6 @@ Certification badges are used in accordance with terms and conditions for [LPI](
 Banner image taken from photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay?mediatype=photography) on [iStock](https://www.istockphoto.com/) under their [standard license](https://www.istockphoto.com/help/licenses).   
 
 </div>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbenweston%2Fbenweston.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbenweston%2Fbenweston?ref=badge_large)
