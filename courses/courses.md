@@ -95,7 +95,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Exam Prep: HashiCorp Certified Terraform Associate (003)](https://www.coursera.org/learn/exam-prep-hashicorp-certified-terraform-associate-003) | **QUEUED** |
+| [Exam Prep: HashiCorp Certified Terraform Associate (003)](https://www.coursera.org/learn/exam-prep-hashicorp-certified-terraform-associate-003) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/exam-prep-hashicorp-certified-terraform-associate-003.pdf) |
 
 </div>
 
