@@ -105,7 +105,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Terraform Associate Certification Exam Preparation](https://cloudacademy.com/learning-paths/terraform-associate-certification-exam-preparation-1-2814/) | **QUEUED** |
+| [Terraform Associate Certification Exam Preparation](https://cloudacademy.com/learning-paths/terraform-associate-certification-exam-preparation-1-2814/) | **_IN PROGRESS_** |
 
 </div>
 
