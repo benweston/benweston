@@ -115,7 +115,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/cloud-guru/courses/hashicorp-certified-terraform-associate) | **QUEUED** |
+| [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/cloud-guru/courses/hashicorp-certified-terraform-associate) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/hashicorp-certified-terraform-associate.pdf) |
 
 </div>
 
