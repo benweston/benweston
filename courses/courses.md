@@ -139,7 +139,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | **QUEUED** |
+| [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/lpi-linux-essentials-certification.pdf) |
 
 </div>
 
