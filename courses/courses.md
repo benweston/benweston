@@ -149,7 +149,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | **QUEUED** |
-| [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | **QUEUED** |
+| [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
+| [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
 
 </div>
