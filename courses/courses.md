@@ -86,3 +86,70 @@
 | [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5002699) |
 
 </div>
+
+## Terraform
+
+### Coursera
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [Exam Prep: HashiCorp Certified Terraform Associate (003)](https://www.coursera.org/learn/exam-prep-hashicorp-certified-terraform-associate-003) | **QUEUED** |
+
+</div>
+
+### Cloud Academy
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [Terraform Associate Certification Exam Preparation](https://cloudacademy.com/learning-paths/terraform-associate-certification-exam-preparation-1-2814/) | **QUEUED** |
+
+</div>
+
+### A Cloud Guru
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/cloud-guru/courses/hashicorp-certified-terraform-associate) | **QUEUED** |
+
+</div>
+
+### Udemy
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [HashiCorp Certified: Terraform Associate - Hands-On Labs](https://www.udemy.com/course/terraform-hands-on-labs/) | **QUEUED** |
+| [HashiCorp Certified: Terraform Associate 2024](https://www.udemy.com/course/terraform-beginner-to-advanced/) | **QUEUED** |
+| [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | **QUEUED** |
+
+</div>
+
+## Linux
+
+### A Cloud Guru
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | **QUEUED** |
+
+</div>
+
+### Udemy
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | **QUEUED** |
+| [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | **QUEUED** |
+
+</div>
