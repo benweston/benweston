@@ -1,4 +1,8 @@
-## Google Cloud
+<div align="center">
+    <img src="https://github.com/benweston/benweston/blob/main/img/google-cloud-banner.png" alt="Google Cloud Banner" width="1200" height="100" />
+</div>
+
+# Google Cloud
 
 ### Coursera
 
@@ -90,7 +94,7 @@
 ---
 
 <div align="center">
-    <img src="https://github.com/benweston/benweston/blob/main/img/terraform-banner.png" alt="Linux Banner" width="1200" height="100" />
+    <img src="https://github.com/benweston/benweston/blob/main/img/terraform-banner.png" alt="Terraform Banner" width="1200" height="100" />
 </div>
 
 # Terraform
