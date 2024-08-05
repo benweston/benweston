@@ -137,7 +137,7 @@
     <img src="https://github.com/benweston/benweston/blob/main/img/lpi-banner.png" alt="Linux Banner" width="1200" height="100" />
 </div>
 
-## Linux
+# Linux
 
 ### A Cloud Guru
 
