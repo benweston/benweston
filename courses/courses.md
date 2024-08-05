@@ -87,7 +87,13 @@
 
 </div>
 
-## Terraform
+---
+
+<div align="center">
+    <img src="https://github.com/benweston/benweston/blob/main/img/terraform-banner.png" alt="Linux Banner" width="1200" height="100" />
+</div>
+
+# Terraform
 
 ### Coursera
 
