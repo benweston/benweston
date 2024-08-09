@@ -87,8 +87,6 @@
 
 </div>
 
----
-
 # Terraform
 
 ### Coursera
@@ -132,8 +130,6 @@
 | [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-udemy/terraform-associate-prep-course-2020.pdf) |
 
 </div>
-
----
 
 # Linux
 
