@@ -1,4 +1,4 @@
-# Google Cloud
+## Google Cloud
 
 ### Coursera
 
@@ -87,7 +87,7 @@
 
 </div>
 
-# Terraform
+## Terraform
 
 ### Coursera
 
@@ -131,7 +131,7 @@
 
 </div>
 
-# Linux
+## Linux
 
 ### A Cloud Guru
 
