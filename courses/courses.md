@@ -64,7 +64,7 @@
 | [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | **QUEUED** |
 | [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/443) | **QUEUED** |
 | [Observability in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/864) | **QUEUED** |
-| [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/99) | **QUEUED** |
+| [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/99) | **_IN PROGRESS_** |
 | [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/paths/11/course_templates/2) | **_IN PROGRESS_** |
 | [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.cloudskillsboost.google/paths/11/course_templates/178) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10502497) |
 | [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/paths/11/course_templates/49) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/9996041) |
