@@ -62,7 +62,7 @@
 | [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | **QUEUED** |
 | [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/637) | **QUEUED** |
 | [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | **QUEUED** |
-| [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/443) | **QUEUED** |
+| [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/443) | **_IN PROGRESS_** |
 | [Observability in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/864) | **_IN PROGRESS_** |
 | [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/99) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10672318) |
 | [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/paths/11/course_templates/2) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10556976) |
