@@ -60,8 +60,8 @@
 | :----- | :----- |
 | [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
 | [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | **QUEUED** |
-| [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/637) | **QUEUED** |
-| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | **_IN PROGRESS_** |
+| [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/637) | **_IN PROGRESS_** |
+| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10986828) |
 | [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/443) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10917903) |
 | [Observability in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/864) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10739551) |
 | [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/99) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10672318) |
