@@ -61,7 +61,7 @@
 | [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
 | [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | **QUEUED** |
 | [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/637) | **_IN PROGRESS_** |
-| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10986828) |
+| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | [**LINK**](https://www.credly.com/badges/1d702ede-b34d-406f-89e8-e5beb8389b5c/public_url) |
 | [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/443) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10917903) |
 | [Observability in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/864) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10739551) |
 | [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/99) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10672318) |
