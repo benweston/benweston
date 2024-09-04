@@ -58,8 +58,8 @@
 
 | [**Cloud Engineer Learning Path**](https://www.cloudskillsboost.google/paths/11) |  |
 | :----- | :----- |
-| [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
-| [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | **_IN PROGRESS_** |
+| [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **_IN PROGRESS_** |
+| [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | [**LINK**](https://www.credly.com/badges/e0d174d7-0247-430c-9653-02ee04174744/public_url) |
 | [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/637) | [**LINK**](https://www.credly.com/badges/ccbb1890-a9a3-4a23-8e3c-52876c5dbafc/public_url) |
 | [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | [**LINK**](https://www.credly.com/badges/1d702ede-b34d-406f-89e8-e5beb8389b5c/public_url) |
 | [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/443) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/10917903) |
