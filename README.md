@@ -23,6 +23,9 @@
         <a href="https://www.credly.com/badges/1fdddfeb-94d9-4f3e-8345-6ff18388631d/public_url">
             <img src="https://github.com/benweston/benweston/blob/main/img/cloud-digital-leader.png" width="104.143162" height="104.143162" alt="Cloud Digital Leader Icon" />
         </a>
+        <a href="https://www.credly.com/badges/e9911f84-a114-4301-bf46-30e594290c5d/public_url">
+            <img src="https://github.com/benweston/benweston/blob/main/img/associate-cloud-engineer.png" width="104.143162" height="104.143162" alt="Associate Cloud Engineer Icon" />
+        </a>
     </p>
 </div>
 
