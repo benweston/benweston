@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/benweston/benweston/blob/main/img/banner-image.png" alt="Server" width="900" height="150" />
+    <img src="https://github.com/benweston/benweston/blob/main/img/banner-image.png" alt="Server" width="1200" height="150" />
 </div>
 
 # Ben Weston
