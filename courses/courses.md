@@ -99,16 +99,6 @@
 
 </div>
 
-### Cloud Academy
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [Terraform Associate Certification Exam Preparation](https://cloudacademy.com/learning-paths/terraform-associate-certification-exam-preparation-1-2814/) | **QUEUED** |
-
-</div>
-
 ### A Cloud Guru
 
 <div align="justify">
