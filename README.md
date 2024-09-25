@@ -1,14 +1,8 @@
-<div align="center">
-    <img src="https://github.com/benweston/benweston/blob/main/img/banner-image.png" alt="Server" width="1200" height="150" />
-</div>
+![Data Centre](/img/banner-image.png)
 
 # Ben Weston
 
-<div align="left">
-
 > Cloud Engineer for [Springer Nature Group](https://www.linkedin.com/company/springernaturegroup/).    
-
-</div>
 
 ## Certifications
 
@@ -42,10 +36,6 @@
 
 ## License
 
-<div align="left">
-
 The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
 Certification badges are used in accordance with terms and conditions for [LPI](https://www.lpi.org/logos), [HashiCorp](https://www.hashicorp.com/certification), and [Google Cloud](https://cloud.google.com/certification/terms).   
 Banner image taken from photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay?mediatype=photography) on [iStock](https://www.istockphoto.com/) under their [standard license](https://www.istockphoto.com/help/licenses).   
-
-</div>
