@@ -2,7 +2,7 @@
 
 # Ben Weston
 
-> Cloud Engineer for [Springer Nature Group](https://www.linkedin.com/company/springernaturegroup/).    
+> Cloud Engineer for [Springer Nature](https://www.linkedin.com/company/springernature/).    
 
 ## Certifications
 
