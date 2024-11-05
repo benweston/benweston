@@ -22,7 +22,7 @@
 | [Exploring Data Transformation with Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/exploring-data-transformation-with-google-cloud.pdf) |
 | [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/digital-transformation-with-google-cloud.pdf) |
 
-### Cloud Academy
+### QA
 
 | Course | Certificate |
 | :----- | :----- |
@@ -71,7 +71,7 @@
 | :----- | :----- |
 | [Exam Prep: HashiCorp Certified Terraform Associate (003)](https://www.coursera.org/learn/exam-prep-hashicorp-certified-terraform-associate-003) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/exam-prep-hashicorp-certified-terraform-associate-003.pdf) |
 
-### Cloud Academy
+### QA
 
 | Course | Certificate |
 | :----- | :----- |
