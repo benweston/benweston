@@ -38,11 +38,8 @@
 
 This repository is licensed under the MIT License. Below are specific licensing details for different elements in this project.   
 
-**Code License**   
-The benweston repository contents (unless otherwise stated) are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
-
-**Digital Badges**   
-Digital badges included in this repository are used in accordance with the guidelines and policies of [LPI](https://www.lpi.org/logos), [HashiCorp](https://www.hashicorp.com/certification), [Google Cloud](https://cloud.google.com/certification/terms), and may not be reused, modified, or distributed separately without permission from the certification owner.   
-
-**Banner Image License**   
-The banner image used in this repository is taken from a photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay) on [iStock](https://www.istockphoto.com/photo/defocused-computer-servers-gm2051589970-563336239?clarity=false) and is licensed separately under iStock's [standard license](https://www.istockphoto.com/help/licenses).   
+| License Type | Details |
+| :----- | :----- |
+| **Code** | The benweston repository contents (unless otherwise stated) are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE). |
+| **Digital Badges** | Digital badges included in this repository are used in accordance with the guidelines and policies of [LPI](https://www.lpi.org/logos), [HashiCorp](https://www.hashicorp.com/certification), [Google Cloud](https://cloud.google.com/certification/terms), and may not be reused, modified, or distributed separately without permission from the certification owner. |
+| **Banner Image License** | The banner image used in this repository is taken from a photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay) on [iStock](https://www.istockphoto.com/photo/defocused-computer-servers-gm2051589970-563336239?clarity=false) and is licensed separately under iStock's [standard license](https://www.istockphoto.com/help/licenses). |
