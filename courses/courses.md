@@ -26,8 +26,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-associate-cloud-engineer-exam-preparation.pdf) |
-| [Google Cloud Digital Leader Exam Preparation](https://cloudacademy.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-cloud-digital-leader-exam-preparation.pdf) |
+| [Google Associate Cloud Engineer Exam Preparation](https://platform.qa.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-associate-cloud-engineer-exam-preparation.pdf) |
+| [Google Cloud Digital Leader Exam Preparation](https://platform.qa.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-cloud-digital-leader-exam-preparation.pdf) |
 
 ### A Cloud Guru
 
