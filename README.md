@@ -34,16 +34,6 @@
     </p>
 </div>
 
-## Roadmap
-
-<div align="left">
-    <p align="left">
-        <a href="https://github.com/users/benweston/projects/18/views/1">
-            <img src="https://github.com/benweston/benweston/blob/main/img/roadmap.svg" width="60" height="60" alt="Map Icon" />
-        </a>
-    </p>
-</div>
-
 ## License
 
 The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
