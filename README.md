@@ -56,3 +56,6 @@ Certification digital badges included in this repository are used in accordance 
 
 **Banner Image License**   
 The banner image used in this repository is taken from a photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay) on [iStock](https://www.istockphoto.com/photo/defocused-computer-servers-gm2051589970-563336239?clarity=false) and is licensed separately under iStock's [standard license](https://www.istockphoto.com/help/licenses).  Reuse or modification of this image should adhere to the terms specified in its license.   
+
+**Vector Images**   
+Vectors and icons by <a href="https://www.svgrepo.com" target="_blank">SVG Repo</a>.   
