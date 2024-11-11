@@ -36,6 +36,8 @@
 
 ## License and Attribution
 
+<div align="justify">
+
 This repository is licensed under the MIT License. Below are specific licensing details for different elements in this project.   
 
 **Code**   
@@ -46,3 +48,5 @@ Digital badges are used in accordance with the guidelines and policies of [LPI](
 
 **Banner Image**   
 Banner image taken from photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay) on [iStock](https://www.istockphoto.com/photo/defocused-computer-servers-gm2051589970-563336239?clarity=false) and is licensed separately under iStock's [standard license](https://www.istockphoto.com/help/licenses).   
+
+</div>
