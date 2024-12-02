@@ -126,7 +126,7 @@
 | [Monitoring in Google Cloud](https://www.cloudskillsboost.google/course_templates/747) | **QUEUED** |
 | [Monitor and Manage Google Cloud Resources](https://www.cloudskillsboost.google/course_templates/653) | **QUEUED** |
 | [Monitor and Log with Google Cloud Operations Suite](https://www.cloudskillsboost.google/course_templates/749) | **QUEUED** |
-| [Manage Bigtable on Google Cloud](https://www.cloudskillsboost.google/course_templates/650) | **QUEUED** |
+| [Create and Manage Bigtable Instances](https://www.cloudskillsboost.google/course_templates/650) | **QUEUED** |
 | [Create and Manage AlloyDB Databases](https://www.cloudskillsboost.google/course_templates/642) | **QUEUED** |
 | [Create and Manage Cloud Spanner Databases](https://www.cloudskillsboost.google/course_templates/643) | **QUEUED** |
 | [Create and Manage Cloud SQL for PostgreSQL Instances](https://www.cloudskillsboost.google/course_templates/652) | **QUEUED** |
