@@ -20,6 +20,12 @@
 | Course | Certificate |
 | :----- | :----- |
 | [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/cloud-guru/courses/hashicorp-certified-terraform-associate) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/hashicorp-certified-terraform-associate.pdf) |
+| [Advanced Terraform with GCP](https://learn.acloud.guru/course/advanced-terraform-with-gcp/overview) | **QUEUED** |
+| [Deploying Resources to GCP with Terraform](https://learn.acloud.guru/course/3078e33a-0a35-433b-a341-a45d3c46bd1d/overview) | **QUEUED** |
+| [Introduction to Terraform Cloud](https://learn.acloud.guru/course/fb8cf85c-52a0-4a1d-856e-4f8a14faf9e9/overview) | **QUEUED** |
+| [Hands-On Troubleshooting with Terraform](https://learn.acloud.guru/course/hands-on-troubleshooting-with-terraform/overview) | **QUEUED** |
+| [Creating a Terraform Configuration for Multi-Cloud Use](https://learn.acloud.guru/course/f9a35a5b-f880-4ad8-b40f-4d49ce66dde6/overview) | **QUEUED** |
+| [Using Terraform to Manage Applications and Infrastructure](https://learn.acloud.guru/course/using-terraform-to-manage-applications-and-infrastructure/overview) | **QUEUED** |
 
 ### Udemy
 
