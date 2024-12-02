@@ -1,3 +1,5 @@
+![Data Centre](/img/banner-image.png)
+
 ## Courses
 
 - [**01 Google Cloud**](https://github.com/benweston/benweston/blob/main/courses/01-google-cloud.md#google-cloud)   
