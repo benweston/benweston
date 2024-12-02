@@ -1,4 +1,4 @@
-## Courses
+# Courses
 
 - [**01 Google Cloud**](https://github.com/benweston/benweston/blob/main/courses/courses.md#google-cloud)   
 - [**02 Terraform**](https://github.com/benweston/benweston/blob/main/courses/courses.md#terraform)   
@@ -6,7 +6,7 @@
 
 ## Google Cloud
 
-### Coursera
+**Coursera**   
 
 | Course | Certificate |
 | :----- | :----- |
@@ -28,21 +28,21 @@
 | [Exploring Data Transformation with Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/exploring-data-transformation-with-google-cloud.pdf) |
 | [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/digital-transformation-with-google-cloud.pdf) |
 
-### QA
+**QA**   
 
 | Course | Certificate |
 | :----- | :----- |
 | [Google Associate Cloud Engineer Exam Preparation](https://platform.qa.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-associate-cloud-engineer-exam-preparation.pdf) |
 | [Google Cloud Digital Leader Exam Preparation](https://platform.qa.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-cloud-digital-leader-exam-preparation.pdf) |
 
-### A Cloud Guru
+**A Cloud Guru**   
 
 | Course | Certificate |
 | :----- | :----- |
 | [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-certified-associate-cloud-engineer.pdf) |
 | [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-cloud-certified-cloud-digital-leader.pdf) |
 
-### Google Cloud Skills Boost
+**Google Cloud Skills Boost**   
 
 | [**Cloud Engineer Learning Path**](https://www.cloudskillsboost.google/paths/11) |  |
 | :----- | :----- |
@@ -71,25 +71,25 @@
 
 ## Terraform
 
-### Coursera
+**Coursera**   
 
 | Course | Certificate |
 | :----- | :----- |
 | [Exam Prep: HashiCorp Certified Terraform Associate (003)](https://www.coursera.org/learn/exam-prep-hashicorp-certified-terraform-associate-003) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/exam-prep-hashicorp-certified-terraform-associate-003.pdf) |
 
-### QA
+**QA**   
 
 | Course | Certificate |
 | :----- | :----- |
 | [Terraform Associate Certification Exam Preparation](https://platform.qa.com/learning-paths/terraform-associate-certification-exam-preparation-1-2814/) | **_IN PROGRESS_** |
 
-### A Cloud Guru
+**A Cloud Guru**   
 
 | Course | Certificate |
 | :----- | :----- |
 | [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/cloud-guru/courses/hashicorp-certified-terraform-associate) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/hashicorp-certified-terraform-associate.pdf) |
 
-### Udemy
+**Udemy**   
 
 | Course | Certificate |
 | :----- | :----- |
@@ -99,20 +99,20 @@
 
 ## Linux
 
-### A Cloud Guru
+**A Cloud Guru**   
 
 | Course | Certificate |
 | :----- | :----- |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/lpi-linux-essentials-certification.pdf) |
 
-### Udemy
+**Udemy**   
 
 | Course | Certificate |
 | :----- | :----- |
 | [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
 | [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
 
-### edX
+**edX**   
 
 | Course | Certificate |
 | :----- | :----- |
