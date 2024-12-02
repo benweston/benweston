@@ -20,6 +20,37 @@
 | [Exploring Data Transformation with Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/exploring-data-transformation-with-google-cloud.pdf) |
 | [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/digital-transformation-with-google-cloud.pdf) |
 
+| Course | Certificate |
+| :----- | :----- |
+| [**Architecting with Google Compute Engine Specialization**](https://www.coursera.org/specializations/gcp-architecture) | **QUEUED** |
+| [Reliable Google Cloud Infrastructure: Design and Process]() | **QUEUED** |
+| [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/elastic-google-cloud-infrastructure-scaling-and-automation.pdf) |
+| [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/essential-google-cloud-infrastructure-core-services.pdf) |
+| [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/essential-google-cloud-infrastructure-foundation.pdf) |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Architecting with Google Kubernetes Engine Specialization**](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) | **QUEUED** |
+| [Architecting with Google Kubernetes Engine: Production](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
+| [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
+| [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Security in Google Cloud Specialization**](https://www.coursera.org/specializations/security-google-cloud-platform) | **QUEUED** |
+| [Mitigating Security Vulnerabilities on Google Cloud](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp?specialization=security-google-cloud-platform) | **QUEUED** |
+| [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud?specialization=security-google-cloud-platform) | **QUEUED** |
+| [Managing Security in Google Cloud](https://www.coursera.org/learn/managing-security-in-google-cloud-platform?specialization=security-google-cloud-platform) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=security-google-cloud-platform) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/security-in-google-cloud-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Networking in Google Cloud Specialization**](https://www.coursera.org/specializations/networking-google-cloud-platform) | **QUEUED** |
+| [Networking in Google Cloud: Routing and Addressing](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management?specialization=networking-google-cloud-platform) | **QUEUED** |
+| [Networking in Google Cloud: Fundamentals](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks?specialization=networking-google-cloud-platform) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=networking-google-cloud-platform) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/networking-in-google-cloud-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
+
 ### QA
 
 | Course | Certificate |
