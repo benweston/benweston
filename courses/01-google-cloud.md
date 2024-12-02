@@ -71,6 +71,28 @@
 | :----- | :----- |
 | [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-certified-associate-cloud-engineer.pdf) |
 | [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-cloud-certified-cloud-digital-leader.pdf) |
+| [Learn Google Cloud by Doing](https://learn.acloud.guru/course/a872a5e6-b6b6-493b-ba82-f8dba48c161c/overview) | **QUEUED** |
+| [GCP Cost Optimization Deep Dive](https://learn.acloud.guru/course/gcp-cost-optimization-deep-dive/overview) | **QUEUED** |
+| [Infrastructure as Code on GCP with Deployment Manager](https://learn.acloud.guru/course/iac-on-gcp-with-deployment-manager/overview) | **QUEUED** |
+| [Workflow Orchestration with Google Cloud Composer](https://learn.acloud.guru/course/fad54c6b-dcf9-4905-961b-98eac94ac49e/overview) | **QUEUED** |
+| [Google Cloud AI Services Deep Dive](https://learn.acloud.guru/course/b8caf0e5-1776-4948-a9ba-2a80826461eb/overview) | **QUEUED** |
+| [Google Cloud SQL Deep Dive](https://learn.acloud.guru/course/be7dc98c-899d-41c3-8be6-41568b5abff9/overview) | **QUEUED** |
+| [Architecting Deployment Pipelines on GCP](https://learn.acloud.guru/course/fe1af44e-c7e1-4eec-a2ff-8ad26f6dd52c/overview) | **QUEUED** |
+| [Hands-On with Google Cloud Functions](https://learn.acloud.guru/course/fcdb2d9e-001c-4a69-88dc-76615e2a22a5/overview) | **QUEUED** |
+| [Google Cloud Functions Deep Dive](https://learn.acloud.guru/course/8bd9dcda-5bb8-4049-bcd9-870d93698486/overview) | **QUEUED** |
+| [Google Cloud Run Deep Dive](https://learn.acloud.guru/course/67fbd730-5b17-4423-a7a6-89637548af92/overview) | **QUEUED** |
+| [Launching and Updating a Website Using Cloud Run](https://learn.acloud.guru/course/fcb2ac86-2310-422a-a7e9-0c0c20760408/overview) | **QUEUED** |
+| [Introduction to Serverless on Google Cloud](https://learn.acloud.guru/course/intro-to-serverless-on-google-cloud/overview) | **QUEUED** |
+| [Running Linux Servers on Google Cloud](https://learn.acloud.guru/course/9fba6023-fad6-4543-a77e-8868b001466b/dashboard) | **QUEUED** |
+| [Advanced Google Cloud Compute Engine](https://learn.acloud.guru/course/0ad7e9cc-5f8a-46c4-a803-2cdac88828e3/overview) | **QUEUED** |
+| [Google Cloud Security Essentials](https://learn.acloud.guru/course/b1b2e481-6128-4539-baf2-0f1034be35b5/overview) | **QUEUED** |
+| [Google Cloud Identity and Access Management (IAM) Deep Dive](https://learn.acloud.guru/course/aea1a9e7-76a3-4a1c-85df-563e1c770c06/overview) | **QUEUED** |
+| [Introduction to Google Cloud Security](https://learn.acloud.guru/course/b624331f-8c99-49b2-86e9-30301ea9a732/overview) | **QUEUED** |
+| [Establishing an Organization on Google Cloud Platform](https://learn.acloud.guru/course/establishing-an-organization-on-gcp/overview) | **QUEUED** |
+| [Google Cloud Essentials](https://learn.acloud.guru/course/e927f4b5-b7c3-4619-b3c6-e529c1ceca00/overview) | **QUEUED** |
+| [Introduction to Google Cloud](https://learn.acloud.guru/course/d6fb013d-ab5b-440d-b2f0-ba51b650e6e2/overview) | **QUEUED** |
+| [Crash Course on Google Cloud Platform](https://learn.acloud.guru/course/gcp-101/overview) | **QUEUED** |
+| [Overview of Google Cloud](https://learn.acloud.guru/course/66ef2605-0227-437d-81c4-2e3b3b3d60ff/overview) | **QUEUED** |
 
 ### Google Cloud Skills Boost
 
