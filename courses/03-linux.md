@@ -21,6 +21,17 @@
 | [Linux OS - Master's](https://www.coursera.org/learn/illinois-tech-linux-os?specialization=iit-information-technology-and-management) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-os-masters.pdf) |
 | [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-fundamentals.pdf) |
 
+### QA
+
+| Course | Certificate |
+| :----- | :----- |
+| [Vim Masterclass](https://platform.qa.com/learning-paths/vim-masterclass-3024/) | **QUEUED** |
+| [Bash Challenge Gauntlet](https://platform.qa.com/learning-paths/bash-challenge-gauntlet-7280/) | **QUEUED** |
+| [Bash Scripting and Shell Programming](https://platform.qa.com/learning-paths/bash-scripting-and-shell-programming-3021/) | **QUEUED** |
+| [Linux Shell Scripting: A Project-Based Approach to Learning](https://platform.qa.com/learning-paths/linux-shell-scripting-3094/) | **_IN PROGRESS_** |
+| [Linux Command Line Byte Session](https://platform.qa.com/learning-paths/linux-command-line-byte-session-273/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/linux-command-line-byte-session.pdf) |
+| [Learn Linux in 5 Days and Level Up Your Career](https://platform.qa.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/learn-linux-in-5-days-and-level-up-your-career.pdf) |
+
 ### A Cloud Guru
 
 | Course | Certificate |
