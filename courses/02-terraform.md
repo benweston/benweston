@@ -12,6 +12,8 @@
 | Course | Certificate |
 | :----- | :----- |
 | [Terraform Associate Certification Exam Preparation](https://platform.qa.com/learning-paths/terraform-associate-certification-exam-preparation-1-2814/) | **_IN PROGRESS_** |
+| [The Infrastructure Developer's Guide to Terraform: GCP Edition](https://platform.qa.com/learning-paths/terraform-on-gcp-4773/) | **QUEUED** |
+| [Solving Infrastructure Challenges with Terraform](https://platform.qa.com/learning-paths/solving-infrastructure-challenges-with-terraform-197/) | **QUEUED** |
 
 ### A Cloud Guru
 
