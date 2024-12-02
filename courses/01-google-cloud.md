@@ -129,7 +129,7 @@
 | [Manage Bigtable on Google Cloud](https://www.cloudskillsboost.google/course_templates/650) | **QUEUED** |
 | [Create and Manage AlloyDB Databases](https://www.cloudskillsboost.google/course_templates/642) | **QUEUED** |
 | [Create and Manage Cloud Spanner Databases](https://www.cloudskillsboost.google/course_templates/643) | **QUEUED** |
-| [Manage PostgreSQL Databases on Cloud SQL](https://www.cloudskillsboost.google/course_templates/652) | **QUEUED** |
+| [Create and Manage Cloud SQL for PostgreSQL Instances](https://www.cloudskillsboost.google/course_templates/652) | **QUEUED** |
 | [Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/course_templates/623) | **QUEUED** |
 | [Build a Data Warehouse with BigQuery](https://www.cloudskillsboost.google/course_templates/624) | **QUEUED** |
 | [Streaming Analytics into BigQuery](https://www.cloudskillsboost.google/course_templates/752) | **QUEUED** |
