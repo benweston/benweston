@@ -16,6 +16,11 @@
 | [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
 
+| Course | Certificate |
+| :----- | :----- |
+| [Linux OS - Master's](https://www.coursera.org/learn/illinois-tech-linux-os?specialization=iit-information-technology-and-management) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-os-masters.pdf) |
+| [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-fundamentals.pdf) |
+
 ### A Cloud Guru
 
 | Course | Certificate |
