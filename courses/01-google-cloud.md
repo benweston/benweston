@@ -1,6 +1,4 @@
-## Google Cloud
-
-**Coursera**   
+### Coursera
 
 | Course | Certificate |
 | :----- | :----- |
@@ -22,21 +20,21 @@
 | [Exploring Data Transformation with Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/exploring-data-transformation-with-google-cloud.pdf) |
 | [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/digital-transformation-with-google-cloud.pdf) |
 
-**QA**   
+### QA
 
 | Course | Certificate |
 | :----- | :----- |
 | [Google Associate Cloud Engineer Exam Preparation](https://platform.qa.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-associate-cloud-engineer-exam-preparation.pdf) |
 | [Google Cloud Digital Leader Exam Preparation](https://platform.qa.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-cloud-digital-leader-exam-preparation.pdf) |
 
-**A Cloud Guru**   
+### A Cloud Guru
 
 | Course | Certificate |
 | :----- | :----- |
 | [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-certified-associate-cloud-engineer.pdf) |
 | [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-cloud-certified-cloud-digital-leader.pdf) |
 
-**Google Cloud Skills Boost**   
+### Google Cloud Skills Boost
 
 | [**Cloud Engineer Learning Path**](https://www.cloudskillsboost.google/paths/11) |  |
 | :----- | :----- |
