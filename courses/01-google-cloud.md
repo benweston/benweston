@@ -57,6 +57,13 @@
 | :----- | :----- |
 | [Google Associate Cloud Engineer Exam Preparation](https://platform.qa.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-associate-cloud-engineer-exam-preparation.pdf) |
 | [Google Cloud Digital Leader Exam Preparation](https://platform.qa.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-cloud-digital-leader-exam-preparation.pdf) |
+| [Google BigQuery](https://platform.qa.com/learning-paths/google-bigquery-44/) | **QUEUED** |
+| [Developing for Google Kubernetes Engine](https://platform.qa.com/learning-paths/developing-for-google-kubernetes-engine-3754/) | **QUEUED** |
+| [Architecting with Google Kubernetes Engine](https://platform.qa.com/learning-paths/architecting-with-google-kubernetes-engine-3751/) | **QUEUED** |
+| [Google Cloud Platform for Cloud Engineers](https://platform.qa.com/learning-paths/google-cloud-platform-for-system-administrators-56/) | **QUEUED** |
+| [Deepen Your GCP Knowledge](https://platform.qa.com/learning-paths/deepen-your-gcp-knowledge-5665/) | **QUEUED** |
+| [Google Cloud Platform Technical Essentials](https://platform.qa.com/learning-paths/google-cloud-platform-technical-essentials-3755/) | **QUEUED** |
+| [Google Cloud Platform Fundamentals](https://platform.qa.com/learning-paths/google-cloud-platform-fundamentals-54/) | **QUEUED** |
 
 ### A Cloud Guru
 
