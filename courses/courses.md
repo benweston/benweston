@@ -123,7 +123,7 @@
 ---
 
 <div style="white-space: nowrap;">
-    <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md" style="vertical-align: middle;">
+    <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md#courses" style="vertical-align: middle;">
         <img src="https://github.com/benweston/benweston/blob/main/img/return.svg" width="60" height="60" alt="Return Icon" />
     </a>
     <span style="vertical-align: middle; margin-left: 10px;">Return to top</span>
