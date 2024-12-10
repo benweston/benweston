@@ -2,14 +2,6 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [**Python, Bash and SQL Essentials for Data Engineering Specialization**](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke) | **QUEUED** |
-| [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) | **QUEUED** |
-| [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) | **QUEUED** |
-| [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/python-bash-and-sql-essentials-for-data-engineering-specialization/linux-and-bash-for-data-engineering.pdf) |
-| [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) | **QUEUED** |
-
-| Course | Certificate |
-| :----- | :----- |
 | [**Unix and Bash for Beginners Specialization**](https://www.coursera.org/specializations/unix-and-bash-for-beginners) | **QUEUED** |
 | [Container Creation and Orchestration Basics](https://www.coursera.org/learn/codio-container-creation-and-orchestration-basics?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Connecting to Devices and Networks](https://www.coursera.org/learn/codio-connecting-to-devices-and-networks?specialization=unix-and-bash-for-beginners) | **QUEUED** |
@@ -18,6 +10,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/python-bash-and-sql-essentials-for-data-engineering-specialization/linux-and-bash-for-data-engineering.pdf) |
 | [Linux OS - Master's](https://www.coursera.org/learn/illinois-tech-linux-os?specialization=iit-information-technology-and-management) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-os-masters.pdf) |
 | [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-fundamentals.pdf) |
 
