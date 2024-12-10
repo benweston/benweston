@@ -34,7 +34,7 @@
 | [**Architecting with Google Kubernetes Engine Specialization**](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) | **QUEUED** |
 | [Architecting with Google Kubernetes Engine: Production](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
 | [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
-| [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=architecting-google-kubernetes-engine) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-kubernetes-engine-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
 
 | Course | Certificate |
 | :----- | :----- |
