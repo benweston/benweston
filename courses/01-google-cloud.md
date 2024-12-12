@@ -1,5 +1,7 @@
 ### Coursera
 
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/cloud-engineering-gcp) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/preparing-for-google-cloud-certification-cloud-engineer-professional-certificate/preparing-for-google-cloud-certification-cloud-engineer.pdf) |
@@ -9,6 +11,10 @@
 | [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=cloud-engineering-gcp) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/preparing-for-google-cloud-certification-cloud-engineer-professional-certificate/essential-google-cloud-infrastructure-core-services.pdf) |
 | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=cloud-engineering-gcp) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/preparing-for-google-cloud-certification-cloud-engineer-professional-certificate/essential-google-cloud-infrastructure-foundation.pdf) |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=cloud-engineering-gcp) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/preparing-for-google-cloud-certification-cloud-engineer-professional-certificate/google-cloud-fundamentals-core-infrastructure.pdf) |
+
+</div>
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -20,6 +26,10 @@
 | [Exploring Data Transformation with Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/exploring-data-transformation-with-google-cloud.pdf) |
 | [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/digital-transformation-with-google-cloud.pdf) |
 
+</div>
+
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Architecting with Google Compute Engine Specialization**](https://www.coursera.org/specializations/gcp-architecture) | **QUEUED** |
@@ -29,12 +39,20 @@
 | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/essential-google-cloud-infrastructure-foundation.pdf) |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
 
+</div>
+
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Architecting with Google Kubernetes Engine Specialization**](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) | **QUEUED** |
 | [Architecting with Google Kubernetes Engine: Production](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
 | [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
 | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
+
+</div>
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -44,6 +62,10 @@
 | [Managing Security in Google Cloud](https://www.coursera.org/learn/managing-security-in-google-cloud-platform?specialization=security-google-cloud-platform) | **QUEUED** |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=security-google-cloud-platform) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/security-in-google-cloud-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
 
+</div>
+
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Networking in Google Cloud Specialization**](https://www.coursera.org/specializations/networking-google-cloud-platform) | **QUEUED** |
@@ -51,7 +73,11 @@
 | [Networking in Google Cloud: Fundamentals](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks?specialization=networking-google-cloud-platform) | **QUEUED** |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=networking-google-cloud-platform) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/networking-in-google-cloud-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
 
+</div>
+
 ### QA
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -65,7 +91,11 @@
 | [Google Cloud Platform Technical Essentials](https://platform.qa.com/learning-paths/google-cloud-platform-technical-essentials-3755/) | **QUEUED** |
 | [Google Cloud Platform Fundamentals](https://platform.qa.com/learning-paths/google-cloud-platform-fundamentals-54/) | **QUEUED** |
 
+</div>
+
 ### A Cloud Guru
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -94,7 +124,11 @@
 | [Crash Course on Google Cloud Platform](https://learn.acloud.guru/course/gcp-101/overview) | **QUEUED** |
 | [Overview of Google Cloud](https://learn.acloud.guru/course/66ef2605-0227-437d-81c4-2e3b3b3d60ff/overview) | **QUEUED** |
 
+</div>
+
 ### Google Cloud Skills Boost
+
+<div align="justify">
 
 | [**Cloud Engineer Learning Path**](https://www.cloudskillsboost.google/paths/11) |  |
 | :----- | :----- |
@@ -112,6 +146,10 @@
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/11/course_templates/60) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/9857451) |
 | [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/paths/11/course_templates/77) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/9808697) |
 
+</div>
+
+<div align="justify">
+
 | [**Cloud Digital Leader Learning Path**](https://www.cloudskillsboost.google/paths/9) |  |
 | :----- | :----- |
 | [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/paths/9/course_templates/271) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5041150) |
@@ -120,6 +158,10 @@
 | [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/9305170) |
 | [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/267) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5014729) |
 | [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5002699) |
+
+</div>
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -156,3 +198,5 @@
 | [Use APIs to Work with Cloud Storage](https://www.cloudskillsboost.google/course_templates/755) | **QUEUED** |
 | [Get Started with Cloud Storage](https://www.cloudskillsboost.google/course_templates/725) | **QUEUED** |
 | [The Basics of Google Cloud Compute](https://www.cloudskillsboost.google/course_templates/754) | **QUEUED** |
+
+</div>
