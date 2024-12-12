@@ -1,5 +1,7 @@
 ### Coursera
 
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Unix and Bash for Beginners Specialization**](https://www.coursera.org/specializations/unix-and-bash-for-beginners) | **QUEUED** |
@@ -8,13 +10,21 @@
 | [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
 
+</div>
+
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/python-bash-and-sql-essentials-for-data-engineering-specialization/linux-and-bash-for-data-engineering.pdf) |
 | [Linux OS - Master's](https://www.coursera.org/learn/illinois-tech-linux-os?specialization=iit-information-technology-and-management) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-os-masters.pdf) |
 | [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-fundamentals.pdf) |
 
+</div>
+
 ### QA
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -25,7 +35,11 @@
 | [Linux Command Line Byte Session](https://platform.qa.com/learning-paths/linux-command-line-byte-session-273/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/linux-command-line-byte-session.pdf) |
 | [Learn Linux in 5 Days and Level Up Your Career](https://platform.qa.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/learn-linux-in-5-days-and-level-up-your-career.pdf) |
 
+</div>
+
 ### A Cloud Guru
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -39,7 +53,11 @@
 | [Introduction to Linux Virtualization from the Command Line](https://learn.acloud.guru/course/introduction-to-linux-virtualization-from-the-command-line/dashboard) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | [Overview of Linux](https://learn.acloud.guru/course/overview-of-linux/overview) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/overview-of-linux.pdf) |
 
+</div>
+
 ### Udemy
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -53,10 +71,16 @@
 | [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/) | **QUEUED** |
 | [Bash Shell Scripting: Crash Course For Beginners](https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/) | **QUEUED** |
 
+</div>
+
 ### edX
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
 | [IBM: Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-edx/lx0117en-linux-commands-and-shell-scripting.pdf) |
 | [DartmouthX, IMTx: Linux Basics: The Command Line Interface](https://www.edx.org/learn/linux/dartmouth-college-linux-basics-the-command-line-interface) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-edx/dart_imt_C_06-linux-basics-the-command-line-interface.pdf) |
 | [LinuxFoundationX: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-edx/lfs101x-introduction-to-linux.pdf) |
+
+</div>
