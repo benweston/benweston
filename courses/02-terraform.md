@@ -1,5 +1,7 @@
 ### Coursera
 
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [Exam Prep: HashiCorp Certified Terraform Associate (003)](https://www.coursera.org/learn/exam-prep-hashicorp-certified-terraform-associate-003) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/exam-prep-hashicorp-certified-terraform-associate-003.pdf) |
@@ -7,7 +9,11 @@
 | [Infrastructure Automation with Terraform](https://www.coursera.org/learn/infrastructure-automation-with-terraform) | **QUEUED** |
 | [Introduction to Terraform](https://www.coursera.org/learn/codio-terraform) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/introduction-to-terraform.pdf) |
 
+</div>
+
 ### QA
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -15,7 +21,11 @@
 | [The Infrastructure Developer's Guide to Terraform: GCP Edition](https://platform.qa.com/learning-paths/terraform-on-gcp-4773/) | **QUEUED** |
 | [Solving Infrastructure Challenges with Terraform](https://platform.qa.com/learning-paths/solving-infrastructure-challenges-with-terraform-197/) | **QUEUED** |
 
+</div>
+
 ### A Cloud Guru
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -27,7 +37,11 @@
 | [Creating a Terraform Configuration for Multi-Cloud Use](https://learn.acloud.guru/course/f9a35a5b-f880-4ad8-b40f-4d49ce66dde6/overview) | **QUEUED** |
 | [Using Terraform to Manage Applications and Infrastructure](https://learn.acloud.guru/course/using-terraform-to-manage-applications-and-infrastructure/overview) | **QUEUED** |
 
+</div>
+
 ### Udemy
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -36,3 +50,5 @@
 | [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-udemy/terraform-associate-prep-course-2020.pdf) |
 | [Terraform Mastery: Road to Senior Engineer](https://www.udemy.com/course/terraform-mastery-road-to-senior-engineer/) | **QUEUED** |
 | [Building Cloud Infrastructure with Terraform](https://www.udemy.com/course/building-cloud-infrastructure-with-terraform/) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-udemy/building-cloud-infrastructure-with-terraform.pdf) |
+
+</div>
