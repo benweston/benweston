@@ -12,7 +12,7 @@
 
 <div align="left">
     <p align="left">
-        <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
+        <a href="https://www.credly.com/badges/22bccbcc-ac8d-4aeb-8d26-5c92ffa414ff/public_url">
             <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="109.563253" height="104.143162" alt="Linux Essentials Icon" />
         </a>
         <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
