@@ -24,3 +24,19 @@
 | [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/01-01-python-for-everybody-specialization/01-01-programming-for-everybody.pdf) |
 
 </div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals) | **QUEUED** |
+| [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) | **QUEUED** |
+| [Introduction to Python Functions](https://www.coursera.org/learn/introduction-python-functions?specialization=python-programming-data-science) | **QUEUED** |
+| [Introduction to Python Fundamentals](https://www.coursera.org/learn/introduction-python-fundamentals?specialization=python-programming-data-science) | **QUEUED** |
+| [Python Scripting Fundamentals](https://www.coursera.org/learn/akamai-programming) | **QUEUED** |
+| [Python Programming Fundamentals](https://www.coursera.org/learn/python-programming-fundamentals) | **QUEUED** |
+| [Introduction to Python Programming](https://www.coursera.org/learn/python-programming-intro) | **QUEUED** |
+| [An Introduction to Programming using Python](https://www.coursera.org/learn/an-introduction-to-programming-using-python) | **QUEUED** |
+| [Python for the Absolute Beginner](https://www.coursera.org/learn/python-for-the-absolute-beginner) | **QUEUED** |
+
+</div>
