@@ -7,8 +7,8 @@
 | [**Programming in Python: A Hands-on Introduction Specialization**](https://www.coursera.org/specializations/hands-on-python) | **_IN PROGRESS_** |
 | [Object-Oriented Python: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-python?specialization=hands-on-python) | **QUEUED** |
 | [Python Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/python-object-basics?specialization=hands-on-python) | **QUEUED** |
-| [Python Basic Structures: Lists, Strings, and Files](https://www.coursera.org/learn/python-basic-structures-lists-strings-and-files?specialization=hands-on-python) | **QUEUED** |
-| [Python Basics: Selection and Iteration](https://www.coursera.org/learn/codio-python-basics?specialization=hands-on-python) | **_IN PROGRESS_** |
+| [Python Basic Structures: Lists, Strings, and Files](https://www.coursera.org/learn/python-basic-structures-lists-strings-and-files?specialization=hands-on-python) | **_IN PROGRESS_** |
+| [Python Basics: Selection and Iteration](https://www.coursera.org/learn/codio-python-basics?specialization=hands-on-python) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/02-01-programming-in-python-a-hands-on-introduction-specialization/01-01-python-basics-selection-and-iteration.pdf) |
 
 </div>
 
