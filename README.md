@@ -28,16 +28,6 @@
     </p>
 </div>
 
-## Courses
-
-<div align="left">
-    <p align="left">
-        <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md">
-            <img src="https://github.com/benweston/benweston/blob/main/img/courses.svg" width="60" height="60" alt="Courses Icon" />
-        </a>
-    </p>
-</div>
-
 ## License
 
 <div align="justify">
