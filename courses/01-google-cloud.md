@@ -99,8 +99,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-certified-associate-cloud-engineer.pdf) |
-| [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-acloudguru/google-cloud-certified-cloud-digital-leader.pdf) |
+| [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/01-01-google-cloud/03-01-acloudguru/google-certified-associate-cloud-engineer.pdf) |
+| [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/01-01-google-cloud/03-01-acloudguru/google-cloud-certified-cloud-digital-leader.pdf) |
 | [Learn Google Cloud by Doing](https://learn.acloud.guru/course/a872a5e6-b6b6-493b-ba82-f8dba48c161c/overview) | **QUEUED** |
 | [GCP Cost Optimization Deep Dive](https://learn.acloud.guru/course/gcp-cost-optimization-deep-dive/overview) | **QUEUED** |
 | [Infrastructure as Code on GCP with Deployment Manager](https://learn.acloud.guru/course/iac-on-gcp-with-deployment-manager/overview) | **QUEUED** |
