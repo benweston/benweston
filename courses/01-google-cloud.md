@@ -81,8 +81,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Associate Cloud Engineer Exam Preparation](https://platform.qa.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-associate-cloud-engineer-exam-preparation.pdf) |
-| [Google Cloud Digital Leader Exam Preparation](https://platform.qa.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-cloud-digital-leader-exam-preparation.pdf) |
+| [Google Associate Cloud Engineer Exam Preparation](https://platform.qa.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/01-01-google-cloud/02-01-qa/google-associate-cloud-engineer-exam-preparation.pdf) |
+| [Google Cloud Digital Leader Exam Preparation](https://platform.qa.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/01-01-google-cloud/02-01-qa/google-cloud-digital-leader-exam-preparation.pdf) |
 | [Google BigQuery](https://platform.qa.com/learning-paths/google-bigquery-44/) | **QUEUED** |
 | [Developing for Google Kubernetes Engine](https://platform.qa.com/learning-paths/developing-for-google-kubernetes-engine-3754/) | **QUEUED** |
 | [Architecting with Google Kubernetes Engine](https://platform.qa.com/learning-paths/architecting-with-google-kubernetes-engine-3751/) | **QUEUED** |
