@@ -69,9 +69,12 @@
 | Course | Certificate |
 | :----- | :----- |
 | [**Networking in Google Cloud Specialization**](https://www.coursera.org/specializations/networking-google-cloud-platform) | **QUEUED** |
+| [Networking in Google Cloud: Hybrid and Multicloud](https://www.coursera.org/learn/networking-in-google-cloud-hybrid-and-multicloud?specialization=networking-google-cloud-platform) | **QUEUED** |
+| [Networking in Google Cloud: Load Balancing](https://www.coursera.org/learn/networking-in-google-cloud-load-balancing?specialization=networking-google-cloud-platform) | **QUEUED** |
+| [Networking in Google Cloud: Network Security](https://www.coursera.org/learn/networking-in-google-cloud-network-security?specialization=networking-google-cloud-platform) | **QUEUED** |
+| [Networking in Google Cloud: Network Architecture](https://www.coursera.org/learn/networking-in-google-cloud-network-architecture?specialization=networking-google-cloud-platform) | **QUEUED** |
 | [Networking in Google Cloud: Routing and Addressing](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management?specialization=networking-google-cloud-platform) | **QUEUED** |
 | [Networking in Google Cloud: Fundamentals](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks?specialization=networking-google-cloud-platform) | **QUEUED** |
-| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=networking-google-cloud-platform) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/01-01-google-cloud/01-01-coursera/networking-in-google-cloud-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
 
 </div>
 
