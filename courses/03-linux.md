@@ -54,13 +54,13 @@
 | Course | Certificate |
 | :----- | :----- |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/lpi-linux-essentials-certification.pdf) |
+| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://learn.acloud.guru/course/admin-guide-to-bash-scripting/overview) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
+| [The System Administrator's Guide to Bash Scripting](https://learn.acloud.guru/course/bccc6769-38e7-4a7f-8255-6914b7244caf/overview) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/the-system-administrators-guide-to-bash-scripting.pdf) |
+| [Introduction to Linux Virtualization from the Command Line](https://learn.acloud.guru/course/introduction-to-linux-virtualization-from-the-command-line/dashboard) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | [Multi-Session with screen](https://learn.acloud.guru/course/multi-session-with-screen/overview) | **QUEUED** |
 | [Advanced Vim Customization](https://learn.acloud.guru/course/f50018e8-35d4-491a-9fca-e380a202ef8e/overview) | **QUEUED** |
 | [Text Editing with Vim](https://learn.acloud.guru/course/1e7d70bd-fd79-4310-a0f5-1d135b2548bd/overview) | **QUEUED** |
 | [Vim - The Improved Editor](https://learn.acloud.guru/course/85a18eac-0e55-419e-a416-301beed637e6/overview) | **QUEUED** |
-| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://learn.acloud.guru/course/admin-guide-to-bash-scripting/overview) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
-| [The System Administrator's Guide to Bash Scripting](https://learn.acloud.guru/course/bccc6769-38e7-4a7f-8255-6914b7244caf/overview) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/the-system-administrators-guide-to-bash-scripting.pdf) |
-| [Introduction to Linux Virtualization from the Command Line](https://learn.acloud.guru/course/introduction-to-linux-virtualization-from-the-command-line/dashboard) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | [Overview of Linux](https://learn.acloud.guru/course/overview-of-linux/overview) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/overview-of-linux.pdf) |
 
 </div>
