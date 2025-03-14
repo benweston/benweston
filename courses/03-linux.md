@@ -73,13 +73,13 @@
 | :----- | :----- |
 | [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/04-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
 | [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/04-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
-| [Linux Mastery: Master the Linux Command Line in 11.5 Hours](https://www.udemy.com/course/linux-mastery/) | **QUEUED** |
 | [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/) | **QUEUED** |
-| [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/) | **QUEUED** |
-| [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | **QUEUED** |
 | [Complete Linux Bash Shell Scripting with Real Life Examples](https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples/) | **QUEUED** |
-| [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/) | **QUEUED** |
+| [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/) | **QUEUED** |
 | [Bash Shell Scripting: Crash Course For Beginners](https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/) | **QUEUED** |
+| [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/) | **QUEUED** |
+| [Linux Mastery: Master the Linux Command Line in 11.5 Hours](https://www.udemy.com/course/linux-mastery/) | **QUEUED** |
+| [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | **QUEUED** |
 
 </div>
 
