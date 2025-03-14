@@ -16,9 +16,19 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Linux for Cloud and DevOps Engineers](https://www.coursera.org/learn/packt-linux-for-cloud-and-devops-engineers-7plvl) | **QUEUED** |
+| [The Unix Workbench](https://www.coursera.org/learn/unix) | **QUEUED** |
 | [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/01-01-coursera/linux-and-bash-for-data-engineering.pdf) |
+| [Advanced Linux Administration and Shell Scripting](https://www.coursera.org/learn/packt-advanced-linux-administration-and-shell-scripting-2g5xt) | **QUEUED** |
+| [Linux Shell Scripting - Advanced](https://www.coursera.org/learn/packt-linux-shell-scripting-advanced-wfinl) | **QUEUED** |
+| [Jq Command Tutorials for Bash Shell Scripting](https://www.coursera.org/learn/packt-jq-command-tutorials-for-bash-shell-scripting-np47k) | **QUEUED** |
+| [Linux Bash Shell Scripting with Real-Life Examples](https://www.coursera.org/learn/packt-a-complete-course-on-linux-bash-shell-scripting-with-real-life-examp-icxwt) | **QUEUED** |
+| [Mastering Linux Command Line](https://www.coursera.org/learn/packt-mastering-linux-command-line-lvkfq) | **QUEUED** |
+| [Practical Linux Command Line 2.0](https://www.coursera.org/learn/packt-practical-linux-command-line-2-0-4gmnv) | **QUEUED** |
+| [Linux Command Line for Beginners](https://www.coursera.org/learn/packt-linux-command-line-for-beginners-mmodv) | **QUEUED** |
 | [Linux OS - Master's](https://www.coursera.org/learn/illinois-tech-linux-os?specialization=iit-information-technology-and-management) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/01-01-coursera/linux-os-masters.pdf) |
 | [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/01-01-coursera/linux-fundamentals.pdf) |
+| [Linux Fundamentals](https://www.coursera.org/learn/packt-linux-fundamentals-s5i8y) | **QUEUED** |
 
 </div>
 
