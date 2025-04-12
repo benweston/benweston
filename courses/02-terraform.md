@@ -37,6 +37,8 @@
 | [Hands-On Troubleshooting with Terraform](https://learn.acloud.guru/course/hands-on-troubleshooting-with-terraform/overview) | **QUEUED** |
 | [Creating a Terraform Configuration for Multi-Cloud Use](https://learn.acloud.guru/course/f9a35a5b-f880-4ad8-b40f-4d49ce66dde6/overview) | **QUEUED** |
 | [Using Terraform to Manage Applications and Infrastructure](https://learn.acloud.guru/course/using-terraform-to-manage-applications-and-infrastructure/overview) | **QUEUED** |
+| [Terraform Concepts for Cloud](https://learn.acloud.guru/course/8db795fd-b786-4df6-a668-1dad18bc15de/overview) | **QUEUED** |
+| [Terraform Quickstart](https://learn.acloud.guru/course/b344b8eb-de3d-4585-92e0-e20a196e3762/overview) | **QUEUED** |
 
 </div>
 
