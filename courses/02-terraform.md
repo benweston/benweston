@@ -55,10 +55,10 @@
 | [HashiCorp Certified: Terraform Professional 2025](https://www.udemy.com/course/hashicorp-certified-terraform-professional/) | **QUEUED** |
 | [HashiCorp Certified: Terraform Associate - Hands-On Labs](https://www.udemy.com/course/terraform-hands-on-labs/) | **QUEUED** |
 | [HashiCorp Certified: Terraform Associate 2025](https://www.udemy.com/course/terraform-beginner-to-advanced/) | **QUEUED** |
-| [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | **QUEUED** |
+| [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | **QUEUED** | 
 | [Terraform - From Zero to Certified Professional](https://www.udemy.com/course/terraformcertified/) | **QUEUED** |
-| [Terraform Mastery: Road to Senior Engineer](https://www.udemy.com/course/terraform-mastery-road-to-senior-engineer/) | **QUEUED** |
 | [Mastering HCP Terraform (Terraform Cloud) with Hands-On Labs](https://www.udemy.com/course/terraform-cloud/) | **QUEUED** |
+| [Terraform Mastery: Road to Senior Engineer](https://www.udemy.com/course/terraform-mastery-road-to-senior-engineer/) | **QUEUED** |
 | [Building Cloud Infrastructure with Terraform](https://www.udemy.com/course/building-cloud-infrastructure-with-terraform/) | **QUEUED** |
 | [HashiCorp Terraform: The Ultimate Beginner's Guide with Labs](https://www.udemy.com/course/terraform-for-beginners-with-labs/) | **QUEUED** |
 | [Terraform: The Complete Guide from Beginner to Expert](https://www.udemy.com/course/mastering-terraform-beginner-to-expert/) | **QUEUED** |
