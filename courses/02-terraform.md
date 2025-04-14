@@ -24,7 +24,7 @@
 
 </div>
 
-### A Cloud Guru
+### Pluralsight
 
 <div align="justify">
 
