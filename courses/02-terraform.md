@@ -54,12 +54,12 @@
 | [Terraform Authoring and Operations Professional 2025](https://www.udemy.com/course/terraform-authoring-and-operations-professional/) | **QUEUED** |
 | [HashiCorp Certified: Terraform Professional 2025](https://www.udemy.com/course/hashicorp-certified-terraform-professional/) | **QUEUED** |
 | [HashiCorp Certified: Terraform Associate - Hands-On Labs](https://www.udemy.com/course/terraform-hands-on-labs/) | **QUEUED** |
-| [HashiCorp Certified: Terraform Associate 2024](https://www.udemy.com/course/terraform-beginner-to-advanced/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/02-01-terraform/04-01-udemy/hashi-corp-certified-terraform-associate-2021.pdf) |
-| [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/02-01-terraform/04-01-udemy/terraform-associate-prep-course-2020.pdf) |
+| [HashiCorp Certified: Terraform Associate 2024](https://www.udemy.com/course/terraform-beginner-to-advanced/) | **QUEUED** |
+| [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | **QUEUED** |
 | [Terraform - From Zero to Certified Professional](https://www.udemy.com/course/terraformcertified/) | **QUEUED** |
 | [Terraform Mastery: Road to Senior Engineer](https://www.udemy.com/course/terraform-mastery-road-to-senior-engineer/) | **QUEUED** |
 | [Mastering HCP Terraform (Terraform Cloud) with Hands-On Labs](https://www.udemy.com/course/terraform-cloud/) | **QUEUED** |
-| [Building Cloud Infrastructure with Terraform](https://www.udemy.com/course/building-cloud-infrastructure-with-terraform/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/02-01-terraform/04-01-udemy/building-cloud-infrastructure-with-terraform.pdf) |
+| [Building Cloud Infrastructure with Terraform](https://www.udemy.com/course/building-cloud-infrastructure-with-terraform/) | **QUEUED** |
 | [HashiCorp Terraform: The Ultimate Beginner's Guide with Labs](https://www.udemy.com/course/terraform-for-beginners-with-labs/) | **QUEUED** |
 | [Terraform: The Complete Guide from Beginner to Expert](https://www.udemy.com/course/mastering-terraform-beginner-to-expert/) | **QUEUED** |
 | [Terraform for the Absolute Beginners with Labs](https://www.udemy.com/course/terraform-for-the-absolute-beginners/) | **QUEUED** |
