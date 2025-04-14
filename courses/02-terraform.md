@@ -30,15 +30,18 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [HashiCorp Certified Terraform Associate](https://learn.acloud.guru/course/hashicorp-certified-terraform-associate-1/dashboard) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/02-01-terraform/03-01-pluralsight/hashicorp-certified-terraform-associate.pdf) |
-| [Advanced Terraform with GCP](https://learn.acloud.guru/course/advanced-terraform-with-gcp/overview) | **QUEUED** |
-| [Deploying Resources to GCP with Terraform](https://learn.acloud.guru/course/3078e33a-0a35-433b-a341-a45d3c46bd1d/overview) | **QUEUED** |
-| [Introduction to Terraform Cloud](https://learn.acloud.guru/course/fb8cf85c-52a0-4a1d-856e-4f8a14faf9e9/overview) | **QUEUED** |
-| [Hands-On Troubleshooting with Terraform](https://learn.acloud.guru/course/hands-on-troubleshooting-with-terraform/overview) | **QUEUED** |
-| [Creating a Terraform Configuration for Multi-Cloud Use](https://learn.acloud.guru/course/f9a35a5b-f880-4ad8-b40f-4d49ce66dde6/overview) | **QUEUED** |
-| [Using Terraform to Manage Applications and Infrastructure](https://learn.acloud.guru/course/using-terraform-to-manage-applications-and-infrastructure/overview) | **QUEUED** |
-| [Terraform Concepts for Cloud](https://learn.acloud.guru/course/8db795fd-b786-4df6-a668-1dad18bc15de/overview) | **QUEUED** |
-| [Terraform Quickstart](https://learn.acloud.guru/course/b344b8eb-de3d-4585-92e0-e20a196e3762/overview) | **QUEUED** |
+| [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/courses/hashicorp-certified-terraform-associate) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/02-01-terraform/03-01-pluralsight/hashicorp-certified-terraform-associate.pdf) |
+| [Implementing Terraform with Google Cloud Platform](https://www.pluralsight.com/courses/terraform-google-cloud-platform-implementing) | **QUEUED** |
+| [Getting Started with Terraform for Google Cloud](https://www.pluralsight.com/courses/getting-started-terraform-google-cloud) | **QUEUED** |
+| [Getting Started with Terraform Cloud](https://www.pluralsight.com/courses/terraform-cloud-getting-started-2023) | **QUEUED** |
+| [Introduction to Terraform Cloud](https://www.pluralsight.com/courses/introduction-to-terraform-cloud) | **QUEUED** |
+| [Hands-On Troubleshooting with Terraform](https://www.pluralsight.com/courses/hands-on-troubleshooting-with-terraform) | **QUEUED** |
+| [Using Terraform to Manage Applications and Infrastructure](https://www.pluralsight.com/courses/using-terraform-to-manage-applications-and-infrastructure) | **QUEUED** |
+| [Terraform Deep Dive](https://www.pluralsight.com/courses/terraform-deep-dive-2023) | **QUEUED** |
+| [Creating a Terraform Configuration for Multi-Cloud Use](https://www.pluralsight.com/courses/creating-a-terraform-configuration-for-multi-cloud-use) | **QUEUED** |
+| [Terraform Concepts for Cloud](https://www.pluralsight.com/courses/terraform-concepts-for-cloud) | **QUEUED** |
+| [Terraform - Getting Started](https://www.pluralsight.com/courses/terraform-getting-started-2023) | **QUEUED** |
+| [Terraform Quickstart](https://www.pluralsight.com/courses/terraform-quickstart) | **QUEUED** |
 
 </div>
 
