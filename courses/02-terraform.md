@@ -54,7 +54,7 @@
 | [Terraform Authoring and Operations Professional 2025](https://www.udemy.com/course/terraform-authoring-and-operations-professional/) | **QUEUED** |
 | [HashiCorp Certified: Terraform Professional 2025](https://www.udemy.com/course/hashicorp-certified-terraform-professional/) | **QUEUED** |
 | [HashiCorp Certified: Terraform Associate - Hands-On Labs](https://www.udemy.com/course/terraform-hands-on-labs/) | **QUEUED** |
-| [HashiCorp Certified: Terraform Associate 2024](https://www.udemy.com/course/terraform-beginner-to-advanced/) | **QUEUED** |
+| [HashiCorp Certified: Terraform Associate 2025](https://www.udemy.com/course/terraform-beginner-to-advanced/) | **QUEUED** |
 | [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | **QUEUED** |
 | [Terraform - From Zero to Certified Professional](https://www.udemy.com/course/terraformcertified/) | **QUEUED** |
 | [Terraform Mastery: Road to Senior Engineer](https://www.udemy.com/course/terraform-mastery-road-to-senior-engineer/) | **QUEUED** |
