@@ -73,13 +73,20 @@
 | :----- | :----- |
 | [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/04-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
 | [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/04-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
+| [Master Bash: The Complete Bash Scripting Guide](https://www.udemy.com/course/master-bash-the-complete-bash-scripting-guide/) | **QUEUED** |
 | [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/) | **QUEUED** |
 | [Complete Linux Bash Shell Scripting with Real Life Examples](https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples/) | **QUEUED** |
+| [Linux Bash Shell Scripting: Complete Guide (incl. AWK & SED)](https://www.udemy.com/course/linux-bash-shell-scripting-complete-guide-incl-awk-sed/) | **QUEUED** |
+| [Learn Bash Shell Scripting For Automation](https://www.udemy.com/course/beginners-course-learn-bash-shell-scripting-for-automation/) | **QUEUED** |
+| [Bash Shell Scripting: From Zero To Automation](https://www.udemy.com/course/bash-shell-scripting-learn-by-creating-6-real-world-scripts/) | **QUEUED** |
 | [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/) | **QUEUED** |
+| [Bash Shell Programming from the Ground Up](https://www.udemy.com/course/bash-shell-programming-from-the-ground-up/) | **QUEUED** |
+| [Linux Bash Shell Scripting for Beginners](https://www.udemy.com/course/fast-track-to-shell-scripting-for-linux-admins/) | **QUEUED** |
 | [Bash Shell Scripting: Crash Course For Beginners](https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/) | **QUEUED** |
 | [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/) | **QUEUED** |
 | [Linux Mastery: Master the Linux Command Line in 11.5 Hours](https://www.udemy.com/course/linux-mastery/) | **QUEUED** |
 | [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | **QUEUED** |
+| [Mastering Linux: The Comprehensive Guide](https://www.udemy.com/course/mastering-linux/) | **QUEUED** |
 
 </div>
 
