@@ -98,7 +98,7 @@
 | Legacy ACG Courses (A Cloud Guru) |  |
 | :----- | :----- |
 | LPI Linux Essentials Certification | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/lpi-linux-essentials-certification.pdf) |
-| The System Administrator's Guide to Bash Scripting | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-pluralsight/the-system-administrators-guide-to-bash-scripting.pdf) |
+| The System Administrator's Guide to Bash Scripting | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/the-system-administrators-guide-to-bash-scripting.pdf) |
 | Introduction to Linux Virtualization from the Command Line | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | Overview of Linux | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/overview-of-linux.pdf) |
 
