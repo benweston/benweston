@@ -43,9 +43,9 @@
 | [Linux Shell Scripting: A Project-Based Approach to Learning](https://platform.qa.com/learning-paths/linux-shell-scripting-3094/) | **QUEUED** |
 | [Linux Command Line Byte Session](https://platform.qa.com/learning-paths/linux-command-line-byte-session-273/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/02-01-qa/linux-command-line-byte-session.pdf) |
 | [Vim Masterclass](https://platform.qa.com/learning-paths/vim-masterclass-3024/) | **QUEUED** |
-| [Learn Linux in 5 Days and Level Up Your Career](https://platform.qa.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/02-01-qa/learn-linux-in-5-days-and-level-up-your-career.pdf) |
 | [Linux Security and Hardening](https://platform.qa.com/learning-paths/linux-security-and-hardening-3023/) | **QUEUED** |
 | [Linux Administration Bootcamp](https://platform.qa.com/learning-paths/linux-administration-bootcamp-3015/) | **QUEUED** |
+| [Learn Linux in 5 Days and Level Up Your Career](https://platform.qa.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/02-01-qa/learn-linux-in-5-days-and-level-up-your-career.pdf) |
 
 </div>
 
