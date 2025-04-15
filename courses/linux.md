@@ -58,7 +58,7 @@
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/lpi-linux-essentials-certification.pdf) |
 | [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-pluralsight/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
 | The System Administrator's Guide to Bash Scripting (ACG Legacy Course) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-pluralsight/the-system-administrators-guide-to-bash-scripting.pdf) |
-| [Introduction to Linux Virtualization from the Command Line](https://learn.acloud.guru/course/introduction-to-linux-virtualization-from-the-command-line/dashboard) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
+| Introduction to Linux Virtualization from the Command Line (ACG Legacy Course) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | [Multi-Session with screen](https://learn.acloud.guru/course/multi-session-with-screen/overview) | **QUEUED** |
 | [Advanced Vim Customization](https://learn.acloud.guru/course/f50018e8-35d4-491a-9fca-e380a202ef8e/overview) | **QUEUED** |
 | [Text Editing with Vim](https://learn.acloud.guru/course/1e7d70bd-fd79-4310-a0f5-1d135b2548bd/overview) | **QUEUED** |
