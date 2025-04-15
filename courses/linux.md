@@ -101,6 +101,7 @@
 | :----- | :----- |
 | [IBM: Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/05-01-edx/lx0117en-linux-commands-and-shell-scripting.pdf) |
 | [DartmouthX, IMTx: Linux Basics: The Command Line Interface](https://www.edx.org/learn/linux/dartmouth-college-linux-basics-the-command-line-interface) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/05-01-edx/dart_imt_C_06-linux-basics-the-command-line-interface.pdf) |
+| [edX: Try It: Learn Linux Command Line](https://www.edx.org/learn/linux/edx-try-it-learn-linux-command-line) | **QUEUED** |
 | [LinuxFoundationX: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/05-01-edx/lfs101x-introduction-to-linux.pdf) |
 
 </div>
