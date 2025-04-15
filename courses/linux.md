@@ -56,7 +56,7 @@
 | Course | Certificate |
 | :----- | :----- |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/lpi-linux-essentials-certification.pdf) |
-| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://learn.acloud.guru/course/admin-guide-to-bash-scripting/overview) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
+| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-pluralsight/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
 | [The System Administrator's Guide to Bash Scripting](https://learn.acloud.guru/course/bccc6769-38e7-4a7f-8255-6914b7244caf/overview) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/the-system-administrators-guide-to-bash-scripting.pdf) |
 | [Introduction to Linux Virtualization from the Command Line](https://learn.acloud.guru/course/introduction-to-linux-virtualization-from-the-command-line/dashboard) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | [Multi-Session with screen](https://learn.acloud.guru/course/multi-session-with-screen/overview) | **QUEUED** |
