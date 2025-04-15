@@ -55,15 +55,52 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/lpi-linux-essentials-certification.pdf) |
+| [**LPI Linux Essentials (010-160)**](https://www.pluralsight.com/paths/lpi-linux-essentials-010-160) | **QUEUED** |
+| [Getting Started with Linux System Administration](https://www.pluralsight.com/courses/linux-system-administration-getting-started-cert) | **QUEUED** |
+| [Getting Started with the Linux Command Line](https://www.pluralsight.com/courses/linux-command-line-getting-started-cert) | **QUEUED** |
+| [Getting Started with Linux](https://www.pluralsight.com/courses/linux-getting-started) | **QUEUED** |
+| [Introduction to the Linux Essentials 010-160 Exam](https://www.pluralsight.com/courses/linux-essentials-010-160-exam-cert) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Utilizing Vim**](https://www.pluralsight.com/paths/utlizing-vim) | **QUEUED** |
+| [Advanced Vim Customization](https://www.pluralsight.com/courses/advanced-vim-customization) | **QUEUED** |
+| [Text Editing with Vim](https://www.pluralsight.com/courses/text-editing-with-vim) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Linux Fundamentals**](https://www.pluralsight.com/paths/linux-fundamentals-1) | **QUEUED** |
+| [UNIX and UNIX Systems: The Big Picture](https://www.pluralsight.com/courses/unix-and-systems-big-picture) | **QUEUED** |
+| [Getting Started with Linux System Administration](https://www.pluralsight.com/courses/linux-system-administration-getting-started-cert) | **QUEUED** |
+| [Getting Started with the Linux Command Line](https://www.pluralsight.com/courses/linux-command-line-getting-started-cert) | **QUEUED** |
+| [Getting Started with Linux](https://www.pluralsight.com/courses/linux-getting-started) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
 | [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-pluralsight/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
-| The System Administrator's Guide to Bash Scripting (ACG Legacy Course) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-pluralsight/the-system-administrators-guide-to-bash-scripting.pdf) |
-| Introduction to Linux Virtualization from the Command Line (ACG Legacy Course) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
-| [Multi-Session with screen](https://learn.acloud.guru/course/multi-session-with-screen/overview) | **QUEUED** |
-| [Advanced Vim Customization](https://learn.acloud.guru/course/f50018e8-35d4-491a-9fca-e380a202ef8e/overview) | **QUEUED** |
-| [Text Editing with Vim](https://learn.acloud.guru/course/1e7d70bd-fd79-4310-a0f5-1d135b2548bd/overview) | **QUEUED** |
-| [Vim - The Improved Editor](https://learn.acloud.guru/course/85a18eac-0e55-419e-a416-301beed637e6/overview) | **QUEUED** |
-| Overview of Linux (ACG Legacy Course) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/overview-of-linux.pdf) |
+
+</div>
+
+<div align="justify">
+
+| Legacy ACG Courses (A Cloud Guru) |  |
+| :----- | :----- |
+| LPI Linux Essentials Certification | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/lpi-linux-essentials-certification.pdf) |
+| The System Administrator's Guide to Bash Scripting | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-pluralsight/the-system-administrators-guide-to-bash-scripting.pdf) |
+| Introduction to Linux Virtualization from the Command Line | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
+| Overview of Linux | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/overview-of-linux.pdf) |
 
 </div>
 
