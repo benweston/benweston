@@ -30,17 +30,25 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [**HashiCorp Certified: Terraform Associate**](https://www.pluralsight.com/paths/hashicorp-certified-terraform-associate) | **QUEUED** |
+| [Getting Started with Terraform Cloud](https://www.pluralsight.com/courses/terraform-cloud-getting-started-2023) | **QUEUED** |
+| [Terraform Deep Dive](https://www.pluralsight.com/courses/terraform-deep-dive-2023) | **QUEUED** |
+| [Terraform - Getting Started](https://www.pluralsight.com/courses/terraform-getting-started-2023) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
 | [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/courses/hashicorp-certified-terraform-associate) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/02-01-terraform/03-01-pluralsight/hashicorp-certified-terraform-associate.pdf) |
 | [Implementing Terraform with Google Cloud Platform](https://www.pluralsight.com/courses/terraform-google-cloud-platform-implementing) | **QUEUED** |
 | [Getting Started with Terraform for Google Cloud](https://www.pluralsight.com/courses/getting-started-terraform-google-cloud) | **QUEUED** |
-| [Getting Started with Terraform Cloud](https://www.pluralsight.com/courses/terraform-cloud-getting-started-2023) | **QUEUED** |
 | [Introduction to Terraform Cloud](https://www.pluralsight.com/courses/introduction-to-terraform-cloud) | **QUEUED** |
 | [Hands-On Troubleshooting with Terraform](https://www.pluralsight.com/courses/hands-on-troubleshooting-with-terraform) | **QUEUED** |
 | [Using Terraform to Manage Applications and Infrastructure](https://www.pluralsight.com/courses/using-terraform-to-manage-applications-and-infrastructure) | **QUEUED** |
-| [Terraform Deep Dive](https://www.pluralsight.com/courses/terraform-deep-dive-2023) | **QUEUED** |
 | [Creating a Terraform Configuration for Multi-Cloud Use](https://www.pluralsight.com/courses/creating-a-terraform-configuration-for-multi-cloud-use) | **QUEUED** |
 | [Terraform Concepts for Cloud](https://www.pluralsight.com/courses/terraform-concepts-for-cloud) | **QUEUED** |
-| [Terraform - Getting Started](https://www.pluralsight.com/courses/terraform-getting-started-2023) | **QUEUED** |
 | [Terraform Quickstart](https://www.pluralsight.com/courses/terraform-quickstart) | **QUEUED** |
 
 </div>
