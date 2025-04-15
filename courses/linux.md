@@ -89,6 +89,16 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Linux System Administration](https://www.edx.org/certificates/professional-certificate/linuxfoundationx-linux-system-administration) | **QUEUED** |
+| [LinuxFoundationX: Linux System Administration Essentials](https://www.edx.org/learn/computer-science/the-linux-foundation-linux-system-administration-essentials-2) | **QUEUED** |
+| [LinuxFoundationX: Linux for Cloud Technicians Essentials](https://www.edx.org/learn/computer-science/the-linux-foundation-linux-for-cloud-technicians-essentials) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
 | [IBM: Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/05-01-edx/lx0117en-linux-commands-and-shell-scripting.pdf) |
 | [DartmouthX, IMTx: Linux Basics: The Command Line Interface](https://www.edx.org/learn/linux/dartmouth-college-linux-basics-the-command-line-interface) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/05-01-edx/dart_imt_C_06-linux-basics-the-command-line-interface.pdf) |
 | [LinuxFoundationX: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/05-01-edx/lfs101x-introduction-to-linux.pdf) |
