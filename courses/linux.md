@@ -63,7 +63,7 @@
 | [Advanced Vim Customization](https://learn.acloud.guru/course/f50018e8-35d4-491a-9fca-e380a202ef8e/overview) | **QUEUED** |
 | [Text Editing with Vim](https://learn.acloud.guru/course/1e7d70bd-fd79-4310-a0f5-1d135b2548bd/overview) | **QUEUED** |
 | [Vim - The Improved Editor](https://learn.acloud.guru/course/85a18eac-0e55-419e-a416-301beed637e6/overview) | **QUEUED** |
-| [Overview of Linux](https://learn.acloud.guru/course/overview-of-linux/overview) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/overview-of-linux.pdf) |
+| Overview of Linux (ACG Legacy Course) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-acloudguru/overview-of-linux.pdf) |
 
 </div>
 
