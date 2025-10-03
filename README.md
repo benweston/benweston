@@ -27,7 +27,7 @@
         </a>
     </p>
         <a href="https://www.credly.com/badges/852b1191-fc81-4328-b418-d54aa359f110/public_url">
-            <img src="https://github.com/benweston/benweston/blob/main/img/diagramming-foundations.png" width="104.143162" height="104.143162" alt="Lucid Diagramming Foundations Icon" />
+            <img src="https://github.com/benweston/benweston/blob/main/img/diagramming-foundations.png" width="110" height="110" alt="Lucid Diagramming Foundations Icon" />
         </a>
 </div>
 
