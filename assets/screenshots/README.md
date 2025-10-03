@@ -1,1 +1,3 @@
-# UI/CLI screenshots
+# `./screenshots`
+
+> UI/CLI screenshots.   

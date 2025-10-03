@@ -1,3 +1,3 @@
 # `./diagrams`
 
-> UML, ERDs, architecture drawings.   
+> UML diagrams, ERDs, architecture drawings.   
