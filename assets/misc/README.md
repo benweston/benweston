@@ -1,1 +1,3 @@
-# Other static images
+# `./misc`
+
+> Other static images.   

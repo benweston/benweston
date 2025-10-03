@@ -1,1 +1,3 @@
-# All static resources
+# `./assets`
+
+> All static resources.   
