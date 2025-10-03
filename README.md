@@ -32,6 +32,9 @@
         <a href="https://www.credly.com/badges/852b1191-fc81-4328-b418-d54aa359f110/public_url">
             <img src="https://github.com/benweston/benweston/blob/main/assets/icons/diagramming-foundations.png" width="110" height="110" alt="Lucid Diagramming Foundations Icon" />
         </a>
+        <a href="https://www.credly.com/badges/6f9a2d83-454f-4f94-92a3-27f4ab90105f/public_url">
+            <img src="https://github.com/benweston/benweston/blob/main/assets/icons/intelligent-diagramming.png" width="110" height="110" alt="Lucid Intelligent Diagramming Icon" />
+        </a>
     </p>
 </div>
 
