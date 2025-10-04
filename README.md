@@ -38,7 +38,7 @@
 <div align="justify">
 
 The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
-Lucid Builder badges (issued via [Credly](https://info.credly.com/)) are microcredentials and are displayed in accordance with [Lucid’s usage policies](https://help.lucid.co/hc/en-us/articles/7413819885204-Lucid-Builder-Badges).
+Lucid Builder badges (issued via [Credly](https://info.credly.com/)) are microcredentials and are displayed in accordance with [Lucid’s usage policies](https://help.lucid.co/hc/en-us/articles/7413819885204-Lucid-Builder-Badges).   
 Banner image taken from photo by [amgun](https://www.istockphoto.com/portfolio/amgun) on [iStock](https://www.istockphoto.com/photo/program-code-development-icon-on-a-digital-lcd-display-with-reflection-gm1500238408-521741043?clarity=false) and is licensed separately under iStock's [standard license](https://www.istockphoto.com/help/licenses).   
 Vector icon by <a href="https://www.svgrepo.com" target="_blank">SVG Repo</a>.   
 
