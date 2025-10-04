@@ -44,7 +44,21 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/github-pdfs-358041/03-01-linux/03-01-pluralsight/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
+| [Mastering Bash and Z Shell Scripting Syntax](https://www.pluralsight.com/courses/mastering-bash-z-shell-scripting-syntax) | **QUEUED** |
+| [Network Monitoring and Analysis with Bash](https://www.pluralsight.com/courses/bash-network-monitoring-analysis) | **QUEUED** |
+| [Scripting for Security with Bash](https://www.pluralsight.com/courses/bash-security-scripting) | **QUEUED** |
+| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | **QUEUED** |
+| [Scan Web Applications with Bash](https://www.pluralsight.com/courses/bash-scan-web-applications) | **QUEUED** |
+| [Operationalizing Bash and Z Shell Scripts](https://www.pluralsight.com/courses/operationalizing-bash-z-shell-scripts) | **QUEUED** |
+| [Managing Jobs and Processes with Bash and Z Shell](https://www.pluralsight.com/courses/managing-jobs-processes-bash-z-shell) | **QUEUED** |
+| [System and File Analysis with Bash](https://www.pluralsight.com/courses/bash-system-file-analysis) | **QUEUED** |
+| [Processing and Filtering Text Data with Bash and Z Shell](https://www.pluralsight.com/courses/processing-filtering-text-data-bash-z-shell) | **QUEUED** |
+| [Managing Files Using Bash and Z Shell](https://www.pluralsight.com/courses/managing-files-using-bash-z-shell) | **QUEUED** |
+| [Bash Input/Output and Streams](https://www.pluralsight.com/courses/bash-input-output-streams) | **QUEUED** |
+| [Bash Parameter and Shell Expansions](https://www.pluralsight.com/courses/bash-parameter-shell-expansions) | **QUEUED** |
+| [Bash Script Flow and Basic Utilities](https://www.pluralsight.com/courses/bash-script-flow-basic-utilities) | **QUEUED** |
+| [Getting Started with Shell Scripting for Bash and Z Shell](https://www.pluralsight.com/courses/shell-scripting-bash-zshell-getting-started) | **QUEUED** |
+| [Getting Started with Bash and Z Shell](https://www.pluralsight.com/courses/bash-zshell-getting-started) | **QUEUED** |
 
 </div>
 
