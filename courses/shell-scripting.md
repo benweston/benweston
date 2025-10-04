@@ -70,15 +70,19 @@
 | :----- | :----- |
 | [Master Bash: The Complete Bash Scripting Guide](https://www.udemy.com/course/master-bash-the-complete-bash-scripting-guide/) | **QUEUED** |
 | [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/) | **QUEUED** |
+| [Bash / Shell | 100 Hands On Challenge with 10 Live Projects](https://www.udemy.com/course/bash-scripting-practice-questions-100-tasks-hands-on/) | **QUEUED** |
+| [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/) | **QUEUED** |
 | [Complete Linux Bash Shell Scripting with Real Life Examples](https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples/) | **QUEUED** |
 | [Linux Bash Shell Scripting: Complete Guide (incl. AWK & SED)](https://www.udemy.com/course/linux-bash-shell-scripting-complete-guide-incl-awk-sed/) | **QUEUED** |
 | [Learn Bash Shell Scripting For Automation](https://www.udemy.com/course/beginners-course-learn-bash-shell-scripting-for-automation/) | **QUEUED** |
+| [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/course/shell-scripting-linux/) | **QUEUED** |
+| [Bash Commands and Scripting - from Beginner to Expert](https://www.udemy.com/course/bash-commands-and-scripting/) | **QUEUED** |
 | [Bash Shell Scripting: From Zero To Automation](https://www.udemy.com/course/bash-shell-scripting-learn-by-creating-6-real-world-scripts/) | **QUEUED** |
 | [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/) | **QUEUED** |
+| [Linux Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-u/) | **QUEUED** |
 | [Bash Shell Programming from the Ground Up](https://www.udemy.com/course/bash-shell-programming-from-the-ground-up/) | **QUEUED** |
-| [Linux Bash Shell Scripting for Beginners](https://www.udemy.com/course/fast-track-to-shell-scripting-for-linux-admins/) | **QUEUED** |
 | [Bash Shell Scripting: Crash Course For Beginners](https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/) | **QUEUED** |
-| [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/) | **QUEUED** |
+| [Linux Bash Shell Scripting for Beginners](https://www.udemy.com/course/fast-track-to-shell-scripting-for-linux-admins/) | **QUEUED** |
 
 </div>
 
