@@ -17,9 +17,12 @@
 | Course | Certificate |
 | :----- | :----- |
 | [Linux Shell Scripting - Advanced](https://www.coursera.org/learn/packt-linux-shell-scripting-advanced-wfinl) | **QUEUED** |
-| [Linux Bash Shell Scripting with Real-Life Examples](https://www.coursera.org/learn/packt-a-complete-course-on-linux-bash-shell-scripting-with-real-life-examp-icxwt) | **QUEUED** |
+| [Learn Bash Shell Scripting for Automation](https://www.coursera.org/learn/packt-learn-bash-shell-scripting-for-automation-s2ztr) | **QUEUED** |
+| [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | **QUEUED** |
 | [Jq Command Tutorials for Bash Shell Scripting](https://www.coursera.org/learn/packt-jq-command-tutorials-for-bash-shell-scripting-np47k) | **QUEUED** |
-| [The Unix Workbench](https://www.coursera.org/learn/unix) | **QUEUED** |
+| [Linux Bash Shell Scripting with Real-Life Examples](https://www.coursera.org/learn/packt-a-complete-course-on-linux-bash-shell-scripting-with-real-life-examp-icxwt) | **QUEUED** |
+| [Linux Commands & Shell Scripting](https://www.coursera.org/learn/linux-commands-and-shell-scripting-bits) | **QUEUED** |
+| [Shell Programming Essentials](https://www.coursera.org/learn/shell-programming-essentials) | **QUEUED** |
 
 </div>
 
