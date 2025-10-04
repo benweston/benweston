@@ -70,7 +70,9 @@
 | :----- | :----- |
 | [Master Bash: The Complete Bash Scripting Guide](https://www.udemy.com/course/master-bash-the-complete-bash-scripting-guide/) | **QUEUED** |
 | [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/) | **QUEUED** |
-| [Bash / Shell | 100 Hands On Challenge with 10 Live Projects](https://www.udemy.com/course/bash-scripting-practice-questions-100-tasks-hands-on/) | **QUEUED** |
+
+| [Bash / Shell \| 100 Hands On Challenge with 10 Live Projects](https://www.udemy.com/course/bash-scripting-practice-questions-100-tasks-hands-on/) | **QUEUED** |
+
 | [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/) | **QUEUED** |
 | [Complete Linux Bash Shell Scripting with Real Life Examples](https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples/) | **QUEUED** |
 | [Linux Bash Shell Scripting: Complete Guide (incl. AWK & SED)](https://www.udemy.com/course/linux-bash-shell-scripting-complete-guide-incl-awk-sed/) | **QUEUED** |
