@@ -2,8 +2,7 @@
 
 <div align="justify">
 
-[**01 Google Cloud**](https://github.com/benweston/benweston/blob/main/courses/google-cloud.md#coursera)   
-[**02 Terraform**](https://github.com/benweston/benweston/blob/main/courses/terraform.md#coursera)   
-[**03 Linux**](https://github.com/benweston/benweston/blob/main/courses/linux.md#coursera)   
+[**01 Python**](https://github.com/benweston/benweston/blob/main/courses/python.md#coursera)   
+[**01 Shell Scripting**](https://github.com/benweston/benweston/blob/main/courses/shell-scripting.md#coursera)   
 
 </div>
