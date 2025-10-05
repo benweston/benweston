@@ -38,7 +38,6 @@
 <div align="justify">
 
 The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
-The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
 Digital badges are used in accordance with the guidelines and policies for [LPI](https://www.lpi.org/logos), [HashiCorp](https://www.hashicorp.com/certification), and [Google Cloud](https://cloud.google.com/certification/terms).   
 Banner image taken from photo by [amgun](https://www.istockphoto.com/portfolio/amgun) on [iStock](https://www.istockphoto.com/photo/program-code-development-icon-on-a-digital-lcd-display-with-reflection-gm1500238408-521741043?clarity=false) and is licensed separately under iStock's [standard license](https://www.istockphoto.com/help/licenses).   
 Vector icon by <a href="https://www.svgrepo.com" target="_blank">SVG Repo</a>.   
