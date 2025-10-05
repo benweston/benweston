@@ -92,6 +92,17 @@
 
 | Course | Certificate |
 | :----- | :----- |
+[**Linux System Administration**]() | **QUEUED** |
+https://www.edx.org/certificates/professional-certificate/linuxfoundationx-linux-system-administration?index=product&queryId=734e93ec46deb506dc96c1245988c1d7&position=4
+[**Linux System Administration Essentials**](https://www.edx.org/learn/computer-science/the-linux-foundation-linux-system-administration-essentials-2) | **QUEUED** |
+[**Linux for Cloud Technicians Essentials**](https://www.edx.org/learn/computer-science/the-linux-foundation-linux-for-cloud-technicians-essentials) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
 | [IBM: Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | **QUEUED** |
 
 </div>
