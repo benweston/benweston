@@ -10,18 +10,26 @@
 
 </div>
 
-## Microcredentials
+## Certifications
 
 <div align="left">
     <p align="left">
-        <a href="https://www.credly.com/badges/852b1191-fc81-4328-b418-d54aa359f110/public_url">
-            <img src="https://github.com/benweston/benweston/blob/main/assets/icons/diagramming-foundations.png" width="120" height="120" alt="Lucid Diagramming Foundations Icon" />
+        <a href="https://www.credly.com/badges/22bccbcc-ac8d-4aeb-8d26-5c92ffa414ff/public_url">
+            <img src="https://github.com/benweston/benweston/blob/main/assets/icons/linux-essentials.png" width="109.563253" height="104.143162" alt="Linux Essentials Icon" />
         </a>
-        <a href="https://www.credly.com/badges/6f9a2d83-454f-4f94-92a3-27f4ab90105f/public_url">
-            <img src="https://github.com/benweston/benweston/blob/main/assets/icons/intelligent-diagramming.png" width="120" height="120" alt="Lucid Intelligent Diagramming Icon" />
+        <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
+            <img src="https://github.com/benweston/benweston/blob/main/assets/icons/terraform-associate-003.png" width="104.143162" height="104.143162" alt="Terraform Associate Icon" />
+        </a>
+        <a href="https://www.credly.com/badges/1fdddfeb-94d9-4f3e-8345-6ff18388631d/public_url">
+            <img src="https://github.com/benweston/benweston/blob/main/assets/icons/cloud-digital-leader.png" width="104.143162" height="104.143162" alt="Cloud Digital Leader Icon" />
+        </a>
+        &nbsp;
+        <a href="https://www.credly.com/badges/e9911f84-a114-4301-bf46-30e594290c5d/public_url">
+            <img src="https://github.com/benweston/benweston/blob/main/assets/icons/associate-cloud-engineer.png" width="104.143162" height="104.143162" alt="Associate Cloud Engineer Icon" />
         </a>
     </p>
 </div>
+
 
 ## Courses
 
