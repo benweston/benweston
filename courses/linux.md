@@ -68,6 +68,12 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Mastering Linux: The Comprehensive Guide](https://www.udemy.com/course/mastering-linux/) | **QUEUED** |
+| [Linux Sysadmin:Build 5 Hands-On Linux Projects for Real Jobs](https://www.udemy.com/course/linux-administration-build-hands-on-linux-projects/) | **QUEUED** |
+| [Linux - The Complete Linux Guide](https://www.udemy.com/course/linux-complete/) | **QUEUED** |
+| [Master Linux and Command Line: Ultimate Admin Bootcamp 2025](https://www.udemy.com/course/master-linux-and-command-line-ultimate-admin-bootcamp/) | **QUEUED** |
+| [Linux Administration: The Complete Linux Bootcamp in 2025](https://www.udemy.com/course/master-linux-administration/) | **QUEUED** |
+| [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/) | **QUEUED** |
 | [Master Bash: The Complete Bash Scripting Guide](https://www.udemy.com/course/master-bash-the-complete-bash-scripting-guide/) | **QUEUED** |
 | [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/) | **QUEUED** |
 | [Bash / Shell \| 100 Hands On Challenge with 10 Live Projects](https://www.udemy.com/course/bash-scripting-practice-questions-100-tasks-hands-on/) | **QUEUED** |
@@ -83,6 +89,9 @@
 | [Bash Shell Programming from the Ground Up](https://www.udemy.com/course/bash-shell-programming-from-the-ground-up/) | **QUEUED** |
 | [Bash Shell Scripting: Crash Course For Beginners](https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/) | **QUEUED** |
 | [Linux Bash Shell Scripting for Beginners](https://www.udemy.com/course/fast-track-to-shell-scripting-for-linux-admins/) | **QUEUED** |
+| [Linux Mastery: Master the Linux Command Line in 11.5 Hours](https://www.udemy.com/course/linux-mastery/) | **QUEUED** |
+| [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | **QUEUED** |
+| [Linux for Beginners](https://www.udemy.com/course/linuxforbeginners/) | **QUEUED** |
 
 </div>
 
