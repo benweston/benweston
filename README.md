@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-> Aspiring `/paɪθəˈnɪstə/`.    
+> Cloud Engineer for [Springer Nature](https://www.linkedin.com/company/springernature/).    
 
 </div>
 
