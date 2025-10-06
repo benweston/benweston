@@ -127,6 +127,10 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Master the LPI Linux Essentials Exam: A Complete Guide](https://www.udemy.com/course/master-the-lpi-linux-essentials-exam-a-complete-guide/) | **QUEUED** |
+| [LPI Linux Essentials Certification Course and Practice Exams](https://www.udemy.com/course/lpi-linux-essentials-certification/) | **QUEUED** |
+| [LPI Linux Essentials (010-160) Complete Course](https://www.udemy.com/course/linux-essentials-010/) | **QUEUED** |
+| [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | **QUEUED** |
 | [Mastering Linux: The Comprehensive Guide](https://www.udemy.com/course/mastering-linux/) | **QUEUED** |
 | [Linux Sysadmin:Build 5 Hands-On Linux Projects for Real Jobs](https://www.udemy.com/course/linux-administration-build-hands-on-linux-projects/) | **QUEUED** |
 | [Linux - The Complete Linux Guide](https://www.udemy.com/course/linux-complete/) | **QUEUED** |
