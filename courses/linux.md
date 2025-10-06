@@ -44,12 +44,20 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Linux System Maintenance and Troubleshooting](https://www.pluralsight.com/courses/linux-system-maintenance-troubleshooting) | **QUEUED** |
+| [Managing SELinux Policies in Enterprise Linux](https://www.pluralsight.com/courses/managing-selinux-policies-enterprise-linux) | **QUEUED** |
+| [Linux Host Security](https://www.pluralsight.com/courses/linux-host-security) | **QUEUED** |
+| [Linux Performance Monitoring and Tuning](https://www.pluralsight.com/courses/linux-performance-monitoring-tuning) | **QUEUED** |
+| [Mastering Linux Storage Using LVM2](https://www.pluralsight.com/courses/mastering-linux-storage-using-lvm2) | **QUEUED** |
+| [Linux Administration with sed and awk](https://www.pluralsight.com/courses/linux-administration-sed-awk-2023) | **QUEUED** |
+| [Getting Started with Linux System Administration](https://www.pluralsight.com/courses/linux-system-administration-getting-started-cert) | **QUEUED** |
 | [Mastering Bash and Z Shell Scripting Syntax](https://www.pluralsight.com/courses/mastering-bash-z-shell-scripting-syntax) | **QUEUED** |
 | [Network Monitoring and Analysis with Bash](https://www.pluralsight.com/courses/bash-network-monitoring-analysis) | **QUEUED** |
 | [Scripting for Security with Bash](https://www.pluralsight.com/courses/bash-security-scripting) | **QUEUED** |
 | [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | **QUEUED** |
-| [Scan Web Applications with Bash](https://www.pluralsight.com/courses/bash-scan-web-applications) | **QUEUED** |
+| [Creating Shell Scripts in Enterprise Linux](https://www.pluralsight.com/courses/creating-shell-scripts-enterprise-linux) | **QUEUED** |
 | [Operationalizing Bash and Z Shell Scripts](https://www.pluralsight.com/courses/operationalizing-bash-z-shell-scripts) | **QUEUED** |
+| [Scan Web Applications with Bash](https://www.pluralsight.com/courses/bash-scan-web-applications) | **QUEUED** |
 | [Managing Jobs and Processes with Bash and Z Shell](https://www.pluralsight.com/courses/managing-jobs-processes-bash-z-shell) | **QUEUED** |
 | [System and File Analysis with Bash](https://www.pluralsight.com/courses/bash-system-file-analysis) | **QUEUED** |
 | [Processing and Filtering Text Data with Bash and Z Shell](https://www.pluralsight.com/courses/processing-filtering-text-data-bash-z-shell) | **QUEUED** |
@@ -59,6 +67,8 @@
 | [Bash Script Flow and Basic Utilities](https://www.pluralsight.com/courses/bash-script-flow-basic-utilities) | **QUEUED** |
 | [Getting Started with Shell Scripting for Bash and Z Shell](https://www.pluralsight.com/courses/shell-scripting-bash-zshell-getting-started) | **QUEUED** |
 | [Getting Started with Bash and Z Shell](https://www.pluralsight.com/courses/bash-zshell-getting-started) | **QUEUED** |
+| [Getting Started with the Linux Command Line](https://www.pluralsight.com/courses/linux-command-line-getting-started-cert) | **QUEUED** |
+| [Getting Started with Linux](https://www.pluralsight.com/courses/linux-getting-started) | **QUEUED** |
 
 </div>
 
