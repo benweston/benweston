@@ -32,9 +32,13 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Linux Administration Bootcamp](https://platform.qa.com/learning-paths/linux-administration-bootcamp-3015/) | **QUEUED** |
 | [Bash Challenge Gauntlet](https://platform.qa.com/learning-paths/bash-challenge-gauntlet-7280/) | **QUEUED** |
 | [Bash Scripting and Shell Programming](https://platform.qa.com/learning-paths/bash-scripting-and-shell-programming-3021/) | **QUEUED** |
 | [Linux Shell Scripting: A Project-Based Approach to Learning](https://platform.qa.com/learning-paths/linux-shell-scripting-3094/) | **QUEUED** |
+| [Linux Command Line Byte Session]() | **QUEUED** |
+https://platform.qa.com/learning-paths/linux-command-line-byte-session-273/
+| [Learn Linux in 5 Days and Level Up Your Career](https://platform.qa.com/learning-paths/learn-linux-in-5-days-3022/) | **QUEUED** |
 
 </div>
 
