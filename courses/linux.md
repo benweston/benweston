@@ -41,13 +41,34 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Linux Security Techniques](https://www.coursera.org/learn/packt-linux-security-techniques-v8gxp) | **QUEUED** |
+| [Linux Administration and Storage](https://www.coursera.org/learn/packt-linux-administration-and-storage-jmzec) | **QUEUED** |
+| [Managing Linux Systems](https://www.coursera.org/learn/managing-linux-systems) | **QUEUED** |
+| [Linux Foundations and Basic System Administration](https://www.coursera.org/learn/packt-linux-foundations-and-basic-system-administration-2g5xt) | **QUEUED** |
+| [Linux Tools for Text Processing](https://www.coursera.org/learn/linux-tools-for-text-processing) | **QUEUED** |
 | [Linux Shell Scripting - Advanced](https://www.coursera.org/learn/packt-linux-shell-scripting-advanced-wfinl) | **QUEUED** |
 | [Learn Bash Shell Scripting for Automation](https://www.coursera.org/learn/packt-learn-bash-shell-scripting-for-automation-s2ztr) | **QUEUED** |
 | [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | **QUEUED** |
 | [Jq Command Tutorials for Bash Shell Scripting](https://www.coursera.org/learn/packt-jq-command-tutorials-for-bash-shell-scripting-np47k) | **QUEUED** |
 | [Linux Bash Shell Scripting with Real-Life Examples](https://www.coursera.org/learn/packt-a-complete-course-on-linux-bash-shell-scripting-with-real-life-examp-icxwt) | **QUEUED** |
+| [Mastering Linux Command Line](https://www.coursera.org/learn/packt-mastering-linux-command-line-lvkfq) | **QUEUED** |
 | [Linux Commands & Shell Scripting](https://www.coursera.org/learn/linux-commands-and-shell-scripting-bits) | **QUEUED** |
 | [Shell Programming Essentials](https://www.coursera.org/learn/shell-programming-essentials) | **QUEUED** |
+| [Practical Linux Command Line 2.0](https://www.coursera.org/learn/packt-practical-linux-command-line-2-0-4gmnv) | **QUEUED** |
+| [Linux Command Line](https://www.coursera.org/learn/packt-linux-command-line-vtpsr) | **QUEUED** |
+| [Linux Command Line for Beginners](https://www.coursera.org/learn/packt-linux-command-line-for-beginners-mmodv) | **QUEUED** |
+| [Getting Technical with the Terminal](https://www.coursera.org/learn/packt-getting-technical-with-the-terminal-tpz6t) | **QUEUED** |
+| [Essential Linux Training Course](https://www.coursera.org/learn/essential-linux-training-course) | **QUEUED** |
+| [Linux Under the Hood](https://www.coursera.org/learn/pearson-linux-under-the-hood-2nd-edition-video-course-r8jsl) | **QUEUED** |
+| [Linux Operating System: A Complete Linux Guide for Beginners](https://www.coursera.org/learn/packt-linux-operating-system-a-complete-linux-guide-for-beginners-mntno) | **QUEUED** |
+| [The Linux Essentials](https://www.coursera.org/learn/packt-the-linux-essentials-yafiq) | **QUEUED** |
+| [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | **QUEUED** |
+| [Linux Fundamentals](https://www.coursera.org/learn/packt-linux-fundamentals-s5i8y) | **QUEUED** |
+| [Foundations of Linux](https://www.coursera.org/learn/packt-foundations-of-linux-xk1al) | **QUEUED** |
+| [Linux for Beginners](https://www.coursera.org/learn/packt-linux-for-beginners-nvqnn) | **QUEUED** |
+| [Linux Crash Course for Beginners - 2023](https://www.coursera.org/learn/packt-linux-crash-course-for-beginners-2023-dn9uu) | **QUEUED** |
+| [Linux for beginners with Hands-on Labs](https://www.coursera.org/learn/linux-for-beginners-with-hands-on-labs) | **QUEUED** |
+| [A Beginners Guide to Linux](https://www.coursera.org/learn/packt-a-beginners-guide-to-linux-z2e2k) | **QUEUED** |
 
 </div>
 
