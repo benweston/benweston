@@ -4,11 +4,36 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [**Unix and Linux Command Line Mastery Specialization**](https://www.coursera.org/specializations/unix-linux-command-line-mastery) | **QUEUED** |
+| [Command Mastery and Unix Help Tools](https://www.coursera.org/learn/command-mastery-and-unix-help-tools?specialization=unix-linux-command-line-mastery) | **QUEUED** |
+| [Shell Programming Essentials](https://www.coursera.org/learn/shell-programming-essentials?specialization=unix-linux-command-line-mastery) | **QUEUED** |
+| [Unix Processes and Communications](https://www.coursera.org/learn/unix-processes-and-communications?specialization=unix-linux-command-line-mastery) | **QUEUED** |
+| [File Utilities, Filters, and Common Unix Commands](https://www.coursera.org/learn/file-utilities-filters-and-common-unix-commands?specialization=unix-linux-command-line-mastery) | **QUEUED** |
+| [File Permissions and Environment Settings in Unix](https://www.coursera.org/learn/file-permissions-and-environment-settings-in-unix?specialization=unix-linux-command-line-mastery) | **QUEUED** |
+| [Introduction to Unix and Linux Fundamentals](https://www.coursera.org/learn/introduction-to-unix-and-linux-fundamentals?specialization=unix-linux-command-line-mastery) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
 | [**Unix and Bash for Beginners Specialization**](https://www.coursera.org/specializations/unix-and-bash-for-beginners) | **QUEUED** |
 | [Container Creation and Orchestration Basics](https://www.coursera.org/learn/codio-container-creation-and-orchestration-basics?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Connecting to Devices and Networks](https://www.coursera.org/learn/codio-connecting-to-devices-and-networks?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Linux Troubleshooting Course with Real Life Examples Specialization**](https://www.coursera.org/specializations/packt-linux-troubleshooting-course-with-real-life-examples) | **QUEUED** |
+| [Advanced Linux Troubleshooting and System Recovery](https://www.coursera.org/learn/packt-advanced-linux-troubleshooting-and-system-recovery-50iib?specialization=packt-linux-troubleshooting-course-with-real-life-examples) | **QUEUED** |
+| [Intermediate Linux Troubleshooting](https://www.coursera.org/learn/packt-intermediate-linux-troubleshooting-mvrrj?specialization=packt-linux-troubleshooting-course-with-real-life-examples) | **QUEUED** |
+| [Linux Troubleshooting Fundamentals](https://www.coursera.org/learn/packt-linux-troubleshooting-fundamentals-mv91v?specialization=packt-linux-troubleshooting-course-with-real-life-examples) | **QUEUED** |
 
 </div>
 
