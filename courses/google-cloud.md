@@ -138,3 +138,11 @@
 **_COMING SOON..._**
 
 </div>
+
+### Google Skills
+
+<div align="justify">
+
+**_COMING SOON..._**
+
+</div>
